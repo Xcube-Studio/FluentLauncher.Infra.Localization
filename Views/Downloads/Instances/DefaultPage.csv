@@ -1,5 +1,6 @@
 ﻿Id,Property,en-US,zh-Hans,zh-Hant,ru-RU,uk-UA
-T1,Text,Latest,最新,最新,Последний,Останній
+T1,Text,Latest Release,最新正式版,最新正式版,,
+T1_1,Text,Latest Snapshot,最新快照,最新快照,,
 T2,Text,All,全部,全部,Все,Всі
 T3,Text,Release Type,发布类型,發布類型,Тип выпуска,Тип випуску
 T4,Text,No results found,无搜索结果,無搜尋結果,Результатов не найдено,Результатів не знайдено
