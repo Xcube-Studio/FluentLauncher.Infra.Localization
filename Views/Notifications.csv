@@ -1,20 +1,17 @@
 ﻿Id,Property,en-US,zh-Hans,zh-Hant,ru-RU,uk-UA
+_OfficialFolderExisted,,The official Minecraft data folder already exists in the launcher,启动器中已存在官方 Minecraft 数据文件夹,,,
+_OfficialFolderAdded,,The official Minecraft data folder has been added to the launcher,官方 Minecraft 数据文件夹已添加到启动器,,,
+_OfficialFolderNotFound,,The official Minecraft data folder cannot be found on the system,系统中找不到官方 Minecraft 数据文件夹,,,
+_FolderExisted,,The Minecraft data folder already exists in the launcher,启动器中已存在该 Minecraft 数据文件夹,,,
+_FolderAdded,,The Minecraft data folder has been added to the launcher,Minecraft 数据文件夹已添加到启动器,,,
+_JavaExisted,,The Java runtime already exists in the launcher,启动器中已存在该 Java 运行时,,,
+_JavaAdded,,The Java runtime has been added to the launcher,Java 运行时已添加到启动器,,,
+_JavaSearched,,Searched Java runtime added to launcher,已将搜索到的 Java 运行时添加到启动器,,,
+_JavaSearchFailed,,An exception occurred while searching the Java runtime,搜索 Java 运行时时发生异常,,,
 _AccountRefreshFailedTitle,,Failed to refresh account,刷新帐户失败,刷新帳戶失敗,Не удалось обновить аккаунт,Не вдалося оновити акаунт
 _AccountRefreshFailedDescription,,The account has expired and you need to log in again or cannot connect to the server due to network problems,该账户已过期需重新登录或因网络问题导致无法连接服务器,該賬戶已過期需重新登錄或因網絡問題導致無法連接服務器,"Срок действия аккаунта истёк, необходимо повторить вход. Возможно не удаётся подключиться к серверу из-за проблем с сетью.","Термін дії акаунта закінчився, необхідно повторити вхід. Можливо не вдається підключитися до сервера через проблеми з мережею."
 _AccountRefreshedTitle,,Successfully refreshed Account,账户刷新成功,賬戶刷新成功,Аккаунт успешно обновлён,Акаунт успішно оновлено
 _AccountRefreshedDescription,,"Welcome back, ${name}",欢迎回来，${name},歡迎回來，${name},"С возвращением, ${name}","З поверненням, ${name}"
-_AddOfficiaFolderExistedT,,Already added the official Minecraft Launcher data folder,已添加官方 Minecraft Launcher 数据文件夹,已添加官方 Minecraft Launcher 數據文件夾,Папка данных из оффициального лаунчера Minecraft уже добавлена.,Папка даних з офіційного лаунчера Minecraft вже додана.
-_AddOfficiaFolderExistedD,,${path} has already been added.,${path} 已添加。,${path} 已添加。,Путь ${path} добавлен.,Шлях ${path} додано.
-_AddOfficialFolderNotExistT,,Cannot add the official Minecraft Launcher data folder,无法添加官方 Minecraft Launcher 数据文件夹,無法添加官方 Minecraft Launcher 數據文件夾,Невозможно добавить папку данных из оффициального лаунчера Minecraft.,Неможливо додати папку даних з офіційного лаунчера Minecraft.
-_AddOfficialFolderNotExistD,,${path} does not exist.,${path} 不存在。,${path} 不存在。,Пути ${path} не существует.,Шляху ${path} не існує.
-_AddOfficiaFolderAddedT,,Official Minecraft Launcher data folder added,添加了官方 Minecraft 启动器数据文件夹,添加了官方 Minecraft 啟動器數據文件夾,Папка данных из оффициального лаунчера Minecraft добавлена.,Папка даних з офіційного лаунчера Minecraft додана.
-_AddOfficiaFolderAddedD,,${path} has been added to Fluent Launcher.,${path} 已添加到 Fluent Launcher。,${path} 已添加到 Fluent Launcher。,Путь ${path} добавлен в Fluent Launcher.,Шлях ${path} додано до Fluent Launcher.
-_AddFolderExistedT,,Failed to add the folder,添加文件夹失败,添加文件夾失敗,Не удалось добавить папку,Не вдалося додати папку
-_AddFolderExistedD,,This folder already exists,该文件夹已存在,該文件夾已存在,Эта папка уже существует,Ця папка вже існує
-_AddSearchedJavaT,,Added searched Java to the launcher,已将添加搜索到的 Java 添加到启动器,已將新增搜尋的 Java 新增至啟動器,Найденная Java добавлена в лаунчер,Знайдену Java додано в лаунчер
-_AddSearchedJavaFailedT,,An error occurred while searching for the Java runtime,搜索 Java 运行时时出现错误,搜尋 Java 運行時出現錯誤,Произошла ошибка при поиске среды выполнения Java,Під час пошуку середовища виконання Java сталася помилка
-_AddJavaExistedT,,Failed to add Java,添加 Java 失败,新增 Java 失敗,Не удалось добавить Java,Не вдалося додати Java
-_AddJavaExistedD,,The Java already exists,该 Java 已存在,該 Java 已存在,Java уже существует,Java вже існує
 AccountAddWelcome,Text,"Welcome Back,",欢迎回来，,歡迎回來，,"С возвращением,","З поверненням,"
 _AccountAddSuccessful,,Added Successfully,添加成功,添加成功,Успешно добавлен,Успішно додано
 _AccountExisted,,The account already exists and the data of the account has been replaced,该账户已存在，已替换该账户的数据,該帳戶已存在，並已替換該帳戶的數據,Учетная запись уже существует и данные учетной записи были заменены.,Обліковий запис уже існує і дані облікового запису було замінено.
