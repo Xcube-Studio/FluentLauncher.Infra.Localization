@@ -1,34 +1,33 @@
 ﻿Id,Property,en-US,zh-Hans,zh-Hant,ru-RU,uk-UA
-_OfficialFolderExisted,,The official Minecraft data folder already exists in the launcher,启动器中已存在官方 Minecraft 数据文件夹,,,
-_OfficialFolderAdded,,The official Minecraft data folder has been added to the launcher,官方 Minecraft 数据文件夹已添加到启动器,,,
-_OfficialFolderNotFound,,The official Minecraft data folder cannot be found on the system,系统中找不到官方 Minecraft 数据文件夹,,,
-_FolderExisted,,The Minecraft data folder already exists in the launcher,启动器中已存在该 Minecraft 数据文件夹,,,
-_FolderAdded,,The Minecraft data folder has been added to the launcher,Minecraft 数据文件夹已添加到启动器,,,
-_JavaExisted,,The Java runtime already exists in the launcher,启动器中已存在该 Java 运行时,,,
-_JavaAdded,,The Java runtime has been added to the launcher,Java 运行时已添加到启动器,,,
-_JavaSearched,,Searched Java runtime added to launcher,已将搜索到的 Java 运行时添加到启动器,,,
-_JavaSearchFailed,,An exception occurred while searching the Java runtime,搜索 Java 运行时时发生异常,,,
-_AccountRefreshFailedTitle,,Failed to refresh account,刷新帐户失败,刷新帳戶失敗,Не удалось обновить аккаунт,Не вдалося оновити акаунт
-_AccountRefreshFailedDescription,,The account has expired and you need to log in again or cannot connect to the server due to network problems,该账户已过期需重新登录或因网络问题导致无法连接服务器,該賬戶已過期需重新登錄或因網絡問題導致無法連接服務器,"Срок действия аккаунта истёк, необходимо повторить вход. Возможно не удаётся подключиться к серверу из-за проблем с сетью.","Термін дії акаунта закінчився, необхідно повторити вхід. Можливо не вдається підключитися до сервера через проблеми з мережею."
-_AccountRefreshedTitle,,Successfully refreshed Account,账户刷新成功,賬戶刷新成功,Аккаунт успешно обновлён,Акаунт успішно оновлено
-_AccountRefreshedDescription,,"Welcome back, ${name}",欢迎回来，${name},歡迎回來，${name},"С возвращением, ${name}","З поверненням, ${name}"
-AccountAddWelcome,Text,"Welcome Back,",欢迎回来，,歡迎回來，,"С возвращением,","З поверненням,"
-_AccountAddSuccessful,,Added Successfully,添加成功,添加成功,Успешно добавлен,Успішно додано
-_AccountExisted,,The account already exists and the data of the account has been replaced,该账户已存在，已替换该账户的数据,該帳戶已存在，並已替換該帳戶的數據,Учетная запись уже существует и данные учетной записи были заменены.,Обліковий запис уже існує і дані облікового запису було замінено.
-_AccountYggdrasilProfileConfirmationFailed,,The profile of this yggdrasil account could't be confirmed,无法确认此 Yggdrasil 帐户的个人资料,無法確認此 yggdrasil 帳戶的個人資料,Профиль этого аккаунта yggdrasil не может быть подтвержден,Не вдалося підтвердити профіль цього облікового запису yggdrasil
-_NoMinecraftFolder,,No Minecraft Data Folders,没有 Minecraft 数据文件夹,沒有 Minecraft 資料夾,Нет папки данных Minecraft,Немає папки даних Minecraft
-NavigateMinecraftFolder,Content,Go To Settings,转到设置,轉到設定,Перейти в настройки,Перейти в налаштування
-_CoreNotInSourceList,,"The core is not found in the current download source, please check the network or choose another download source",当前下载源中未找到该核心，请检查网络或选择其他下载源,在目前下載來源中找不到此核心，請檢查網路或選擇其他下載來源,"Это ядро не найдено в текущем источнике скачивания, проверьте свою сеть или выберите другой источник скачивания.","Це ядро не знайдено в поточному джерелі завантаження, перевірте свою мережу або виберіть інше джерело завантаження."
-_DeleteGameFailedT,,The core cannot be deleted,无法删除该核心,無法刪除該核心,Ядро не может быть удалено,Ядро не можна видалити
-_DeleteGameFailedD,,The current core file is occupied by other processes. Please cancel the process and try again.,当前核心文件被其他进程占用，请解除进程后重试,目前核心檔案被其他進程佔用，請解除進程後重試,Текущий файл ядра занят другим процессом. Завершите процесс и повторите попытку.,Поточний файл ядра зайнятий іншим процесом. Завершіть процес і повторіть спробу.
-_DeleteGameTitle,,The core was successfully deleted,成功删除该核心,成功刪除該核心,Ядро успешно удалено,Ядро успішно видалено
-_ExportLog,,Log file exported successfully,日志文件已成功导出,日志文件已成功导出,Файл журнала успешно экспортирован,Файл журналу успішно експортовано
-_LaunchGameThrowException,,Encountered an error during launching,启动过程中遇到错误,啟動過程中遇到錯誤,Произошла ошибка при запуске,Сталася помилка під час запуску
-ExceptionCopyButton,Content,Copy Full Information,复制完整信息,複製完整訊息,Копировать полную информацию,Копіювати повну інформацію
-_LaunchGameThrowMicrosoftAuthenticationException,,"An exception occurred while refreshing the account, please log in to the yggdrasil account again to get the access token again.",刷新账户时发生异常，请重新登录该外置账户，以重新获取访问令牌,刷新帳戶時發生異常，請重新登入該外置帳戶，以重新取得存取令牌,"При обновлении учетной записи произошла исключительная ситуация. Пожалуйста, войдите в учетную запись yggdrasil еще раз, чтобы снова получить токен доступа.","Під час оновлення облікового запису сталася виняткова ситуація. Будь ласка, увійдіть в обліковий запис yggdrasil ще раз, щоб знову отримати токен доступу."
-_LaunchGameThrowYggdrasilAuthenticationException,,"An exception occurred while refreshing the account, please log in to the Microsoft account again to get the access token again.",刷新账户时发生异常，请重新登录该微软账户，以重新获取访问令牌,刷新帳戶時發生異常，請重新登入該微軟帳戶，以重新取得存取權杖,"При обновлении учетной записи произошло исключение. Пожалуйста, войдите в учетную запись Microsoft еще раз, чтобы снова получить токен доступа.","Під час оновлення облікового запису сталося виключення. Будь ласка, увійдіть в обліковий запис Microsoft ще раз, щоб знову отримати токен доступу."
+_OfficialFolderExisted,,The official Minecraft data folder already exists in the launcher,启动器中已存在官方 Minecraft 数据文件夹,啟動器中已存在官方Minecraft數據資料夾,,
+_OfficialFolderAdded,,The official Minecraft data folder has been added to the launcher,官方 Minecraft 数据文件夹已添加到启动器,官方Minecraft數據資料夾已新增至啟動器,,
+_OfficialFolderNotFound,,The official Minecraft data folder cannot be found on the system,系统中找不到官方 Minecraft 数据文件夹,系統中找不到官方Minecraft數據資料夾,,
+_FolderExisted,,The Minecraft data folder already exists in the launcher,启动器中已存在该 Minecraft 数据文件夹,啟動器中已存在該Minecraft數據資料夾,,
+_FolderAdded,,The Minecraft data folder has been added to the launcher,Minecraft 数据文件夹已添加到启动器,Minecraft數據資料夾已新增至啟動器,,
+_NoMinecraftDataFolder,,No Minecraft Data Folders,没有 Minecraft 数据文件夹,沒有Minecraft數據資料夾,Нет папки данных Minecraft,Немає папки даних Minecraft
+_NoMinecraftDataFolderDescription,,You need to add at least one Minecraft data folder to the launcher before you can install a Minecraft instance,你需要至少在启动器中添加一个 Minecraft 数据文件夹，才能安装 Minecraft 实例,你需要至少在啟動器中新增一個Minecraft數據資料夾，才能安裝Minecraft實例,,
+_JavaExisted,,The Java runtime already exists in the launcher,启动器中已存在该 Java 运行时,啟動器中已存在該Java執行環境,,
+_JavaAdded,,The Java runtime has been added to the launcher,Java 运行时已添加到启动器,Java運行時已添加到啟動器,,
+_JavaSearched,,Searched Java runtime added to launcher,已将搜索到的 Java 运行时添加到启动器,已將搜尋到的Java執行環境新增至啟動器,,
+_JavaSearchFailed,,An exception occurred while searching the Java runtime,搜索 Java 运行时时发生异常,搜尋Java運行時時發生異常,,
+_AccountYggdrasilProfileConfirmationFailed,,The profile of this yggdrasil account could't be confirmed,无法确认此 Yggdrasil 帐户的个人资料,無法確認此Yggdrasil賬號的個人檔案,Профиль этого аккаунта yggdrasil не может быть подтвержден,
+_AccountRefreshed,,Successfully refreshed the access token for this account,成功刷新此账户的访问令牌,成功更新此賬號的存取權杖,,
+_AccountRefreshFailed,,Unable to refresh the access token for this account,无法刷新此账户的访问令牌,無法更新此賬號的存取權杖,,
+_AccountRefreshFailedDescription,,Please log back into this account to manually refresh the token,请重新登录此账户，以手动刷新令牌,請重新登入此賬號，以手動更新權杖,,
+_AccountAdded,,Account successfully added to the launcher,账户已成功添加到启动器,賬號已成功新增至啟動器,,
+_AccountAddedDescription,,"Welcome back, ${name}",欢迎回来，${name},歡迎回來，${name},"С возвращением, ${name}","З поверненням, ${name}"
+_AccountExisted,,The account already exists and the data of the account has been replaced,该账户已存在，已替换该账户的数据,該賬號已存在，已替換該賬號的資料,Учетная запись уже существует и данные учетной записи были заменены.,Не вдалося підтвердити профіль цього облікового запису yggdrasil
+_SkinUploadFailed,,An exception occurred while uploading the skin,上传皮肤过程中发生异常,上傳外觀過程中發生异常,,
+_TaskCreated_ModDownload,,Mod download task created,模组下载任务已创建,模組下載任務已建立,,
+_TaskFailed_Launch,,An exception occurred while launching Minecraft instance,启动 Minecraft 实例过程中发生异常,啟動Minecraft實例過程中發生異常,,
+_TaskFailed_Install,,An exception occurred while installing the Minecraft instance,安装 Minecraft 实例过程中发生异常,安裝Minecraft實例過程中發生異常,,
+_InstanceDeleted,,Successfully deleted this Minecraft instance,成功删除此 Minecraft 实例,成功删除此Minecraft實例,,
+_InstanceDeleteFailed,,An exception occurred while deleting the Minecraft instance,删除 Minecraft 实例时发生异常,删除Minecraft實例時發生異常,,
+_InstanceDeleteFailedDescription,,"The files of this Minecraft instance may be occupied by other processes, please terminate the process and try again",此 Minecraft  实例的文件可能被其他进程占用，请解除进程后重试,此Minecraft實例的檔案可能被其他程序佔用，請解除程序後重試,,
+_LaunchFailed_MicrosoftAuthenticationException,,"An exception occurred while refreshing the account, please log in to the yggdrasil account again to get the access token again.",刷新账户时发生异常，请重新登录该外置账户，以重新获取访问令牌,刷新帳戶時發生異常，請重新登入該外置帳戶，以重新取得存取令牌,"При обновлении учетной записи произошла исключительная ситуация. Пожалуйста, войдите в учетную запись yggdrasil еще раз, чтобы снова получить токен доступа.","Під час оновлення облікового запису сталася виняткова ситуація. Будь ласка, увійдіть в обліковий запис yggdrasil ще раз, щоб знову отримати токен доступу."
+_LaunchFailed_YggdrasilAuthenticationException,,"An exception occurred while refreshing the account, please log in to the Microsoft account again to get the access token again.",刷新账户时发生异常，请重新登录该微软账户，以重新获取访问令牌,刷新帳戶時發生異常，請重新登入該微軟帳戶，以重新取得存取權杖,"При обновлении учетной записи произошло исключение. Пожалуйста, войдите в учетную запись Microsoft еще раз, чтобы снова получить токен доступа.","Під час оновлення облікового запису сталося виключення. Будь ласка, увійдіть в обліковий запис Microsoft ще раз, щоб знову отримати токен доступу."
+_LaunchFailed_IncompleteDependenciesException,,An exception occurred during dependency completion. A dependency failed to download. Please check your network settings and try again.,依赖补全过程中发生异常，有依赖下载失败，请检查网络设置并重试,,,
+_InstallFailed_IncompleteDependenciesException,,An exception occurred during dependency completion. A dependency failed to download. Please check your network settings and try again.,依赖补全过程中发生异常，有依赖下载失败，请检查网络设置并重试,,,
 _SkinDisplayExceptionT,,Skin model loading failed,皮肤模型加载失败,皮膚模型載入失敗,Загрузка скина не удалась,Завантаження моделі шкіри не вдалося
 _SkinDisplayExceptionD,,Failed to obtain skin file or model type. This may be due to account access token expiration. Please refresh the account to try to solve it.,获取皮肤文件或模型类型失败，这可能是由于账户访问令牌过期导致的，请刷新账户尝试解决,取得皮膚檔案或模型類型失敗，這可能是由於帳戶存取權杖過期導致的，請刷新帳戶嘗試解決,"Не удалось получить файл скина или тип модели. Это может быть связано с истечением срока действия токена доступа к учетной записи. Пожалуйста, обновите учетную запись, чтобы попытаться решить эту проблему.","Не вдалося отримати файл скіна або тип моделі. Це може бути пов'язано із закінченням терміну дії токена доступу до облікового запису. Будь ласка, оновіть обліковий запис, щоб спробувати вирішити цю проблему."
-_SkinUploadException,,Failed to upload skin,上传皮肤失败,上傳皮膚失敗,Не удалось загрузить скин,Не вдалося завантажити скін
-_AddDownloadTask,,Added to download task,已添加到下载任务,新增到下載任務,Добавлено в задачу загрузки,Додано до завдання для завантаження
-_InstallInstanceThrowException,,Encountered an error during instance installation,实例安装过程中遇到错误,實例安裝過程中遇到錯誤,Произошла ошибка при установке экземпляра,Під час встановлення екземпляра сталася помилка
+_LogExported,,Log file exported successfully,日志文件已成功导出,日志文件已成功导出,Файл журнала успешно экспортирован,Файл журналу успішно експортовано
