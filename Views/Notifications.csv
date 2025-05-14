@@ -29,3 +29,8 @@ _SkinDisplayExceptionD,,Failed to obtain skin file or model type. This may be du
 _LogExported,,Log file exported successfully,日志文件已成功导出,日志文件已成功导出,Файл журнала успешно экспортирован,Файл журналу успішно експортовано
 _LauncherIsLatest,,The launcher is already the latest preview channel version,启动器已是最新预览通道版本,,,
 _LauncherHasUpdate,,There's a new launcher update in the preview channel,预览通道有新的启动器更新,預覽頻道有新的啟動器更新,,
+_ArgumentsCopied,,The launch parameters have been copied to the clipboard,启动参数已复制到剪切板,,,
+_ModDeleteInquire,,Are you sure you want to delete this mod?,你确定要删除该模组吗？,,,
+_ModDeleted,,The mod has been deleted,已删除该模组,,,
+_ModAdded,,${count} mods have been added to this instance,${count} 个模组已添加到该实例,,,
+_ModDrag,,You can drag and drop mod files to this page to add modules to this instance.,可以将模组文件拖拽至此页面来添加模组到该实例,,,
