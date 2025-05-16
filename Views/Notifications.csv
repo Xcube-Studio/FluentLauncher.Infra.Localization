@@ -1,36 +1,36 @@
 ﻿Id,Property,en-US,zh-Hans,zh-Hant,ru-RU,uk-UA
-_OfficialFolderExisted,,The official Minecraft data folder already exists in the launcher,启动器中已存在官方 Minecraft 数据文件夹,啟動器中已存在官方 Minecraft 數據資料夾,,
-_OfficialFolderAdded,,The official Minecraft data folder has been added to the launcher,官方 Minecraft 数据文件夹已添加到启动器,官方 Minecraft 數據資料夾已新增至啟動器,,
-_OfficialFolderNotFound,,The official Minecraft data folder cannot be found on the system,系统中找不到官方 Minecraft 数据文件夹,系統中找不到官方 Minecraft 數據資料夾,,
-_FolderExisted,,The Minecraft data folder already exists in the launcher,启动器中已存在该 Minecraft 数据文件夹,啟動器中已存在該 Minecraft 數據資料夾,,
-_FolderAdded,,The Minecraft data folder has been added to the launcher,Minecraft 数据文件夹已添加到启动器,Minecraft 數據資料夾已新增至啟動器,,
-_NoMinecraftDataFolder,,No Minecraft Data Folders,没有 Minecraft 数据文件夹,沒有 Minecraft 數據資料夾,Нет папки данных Minecraft,Немає папки даних Minecraft
-_NoMinecraftDataFolderDescription,,You need to add at least one Minecraft data folder to the launcher before you can install a Minecraft instance,你需要至少在启动器中添加一个 Minecraft 数据文件夹，才能安装 Minecraft 实例,你需要至少在啟動器中新增一個 Minecraft 數據資料夾，才能安裝 Minecraft 實例,,
-_JavaExisted,,The Java runtime already exists in the launcher,启动器中已存在该 Java 运行时,啟動器中已存在該 Java 執行環境,,
-_JavaAdded,,The Java runtime has been added to the launcher,Java 运行时已添加到启动器,Java 運行時已添加到啟動器,,
-_JavaSearched,,Searched Java runtime added to launcher,已将搜索到的 Java 运行时添加到启动器,已將搜尋到的 Java 執行環境新增至啟動器,,
-_JavaSearchFailed,,An exception occurred while searching the Java runtime,搜索 Java 运行时时发生异常,搜尋 Java 運行時時發生異常,,
-_AccountYggdrasilProfileConfirmationFailed,,The profile of this yggdrasil account could't be confirmed,无法确认此 Yggdrasil 帐户的个人资料,無法確認此 Yggdrasil 賬號的個人檔案,Профиль этого аккаунта yggdrasil не может быть подтвержден,
-_AccountRefreshed,,Successfully refreshed the access token for this account,成功刷新此账户的访问令牌,成功更新此賬號的存取權杖,,
-_AccountRefreshFailed,,Unable to refresh the access token for this account,无法刷新此账户的访问令牌,無法更新此賬號的存取權杖,,
-_AccountRefreshFailedDescription,,Please log back into this account to manually refresh the token,请重新登录此账户，以手动刷新令牌,請重新登入此賬號，以手動更新權杖,,
-_AccountAdded,,Account successfully added to the launcher,账户已成功添加到启动器,賬號已成功新增至啟動器,,
-_AccountAddedDescription,,"Welcome back, ${name}",欢迎回来，${name},歡迎回來，${name},"С возвращением, ${name}","З поверненням, ${name}"
-_AccountExisted,,The account already exists and the data of the account has been replaced,该账户已存在，已替换该账户的数据,該賬號已存在，已替換該賬號的資料,Учетная запись уже существует и данные учетной записи были заменены.,Не вдалося підтвердити профіль цього облікового запису yggdrasil
-_SkinUploadFailed,,An exception occurred while uploading the skin,上传皮肤过程中发生异常,上傳外觀過程中發生异常,,
-_TaskCreated_ModDownload,,Mod download task created,模组下载任务已创建,模組下載任務已建立,,
-_TaskFailed_Launch,,An exception occurred while launching Minecraft instance,启动 Minecraft 实例过程中发生异常,啟動 Minecraft 實例過程中發生異常,,
-_TaskFailed_Install,,An exception occurred while installing the Minecraft instance,安装 Minecraft 实例过程中发生异常,安裝 Minecraft 實例過程中發生異常,,
-_InstanceDeleted,,Successfully deleted this Minecraft instance,成功删除此 Minecraft 实例,成功删除此 Minecraft 實例,,
-_InstanceDeleteFailed,,An exception occurred while deleting the Minecraft instance,删除 Minecraft 实例时发生异常,删除 Minecraft 實例時發生異常,,
-_InstanceDeleteFailedDescription,,"The files of this Minecraft instance may be occupied by other processes, please terminate the process and try again",此 Minecraft  实例的文件可能被其他进程占用，请解除进程后重试,此 Minecraft 實例的檔案可能被其他程序佔用，請解除程序後重試,,
-_SkinDisplayExceptionT,,Skin model loading failed,皮肤模型加载失败,皮膚模型載入失敗,Загрузка скина не удалась,Завантаження моделі шкіри не вдалося
-_SkinDisplayExceptionD,,Failed to obtain skin file or model type. This may be due to account access token expiration. Please refresh the account to try to solve it.,获取皮肤文件或模型类型失败，这可能是由于账户访问令牌过期导致的，请刷新账户尝试解决,取得皮膚檔案或模型類型失敗，這可能是由於帳戶存取權杖過期導致的，請刷新帳戶嘗試解決,"Не удалось получить файл скина или тип модели. Это может быть связано с истечением срока действия токена доступа к учетной записи. Пожалуйста, обновите учетную запись, чтобы попытаться решить эту проблему.","Не вдалося отримати файл скіна або тип моделі. Це може бути пов'язано із закінченням терміну дії токена доступу до облікового запису. Будь ласка, оновіть обліковий запис, щоб спробувати вирішити цю проблему."
+_OfficialFolderExisted,,The official Minecraft data folder already exists in the launcher,启动器中已存在官方 Minecraft 数据文件夹,啟動器中已存在官方 Minecraft 數據資料夾,Официальная папка данных Minecraft уже существует в лаунчере,Офіційна папка даних Minecraft вже існує в лаунчері
+_OfficialFolderAdded,,The official Minecraft data folder has been added to the launcher,官方 Minecraft 数据文件夹已添加到启动器,官方 Minecraft 數據資料夾已新增至啟動器,Официальная папка данных Minecraft добавлена ​​в лаунчер,Офіційну папку даних Minecraft додано до лаунчера
+_OfficialFolderNotFound,,The official Minecraft data folder cannot be found on the system,系统中找不到官方 Minecraft 数据文件夹,系統中找不到官方 Minecraft 數據資料夾,Официальная папка данных Minecraft не найдена в системе,Офіційну папку даних Minecraft не знайдено в системі
+_FolderExisted,,The Minecraft data folder already exists in the launcher,启动器中已存在该 Minecraft 数据文件夹,啟動器中已存在該 Minecraft 數據資料夾,Папка данных Minecraft уже существует в лаунчере,Папка даних Minecraft вже існує в лаунчері
+_FolderAdded,,The Minecraft data folder has been added to the launcher,Minecraft 数据文件夹已添加到启动器,Minecraft 數據資料夾已新增至啟動器,Папка данных Minecraft добавлена ​​в лаунчер,Папку даних Minecraft додано до лаунчера
+_NoMinecraftDataFolder,,No Minecraft Data Folders,没有 Minecraft 数据文件夹,沒有 Minecraft 數據資料夾,Нет папок данных Minecraft,Немає папок даних Minecraft
+_NoMinecraftDataFolderDescription,,You need to add at least one Minecraft data folder to the launcher before you can install a Minecraft instance,你需要至少在启动器中添加一个 Minecraft 数据文件夹，才能安装 Minecraft 实例,你需要至少在啟動器中新增一個 Minecraft 數據資料夾，才能安裝 Minecraft 實例,"Вам необходимо добавить хотя бы одну папку данных Minecraft в лаунчер, прежде чем вы сможете установить экземпляр Minecraft","Вам потрібно додати принаймні одну папку даних Minecraft до лаунчера, перш ніж ви зможете встановити екземпляр Minecraft"
+_JavaExisted,,The Java runtime already exists in the launcher,启动器中已存在该 Java 运行时,啟動器中已存在該 Java 執行環境,Среда выполнения Java уже существует в лаунчере,Середовище виконання Java вже існує в лаунчері
+_JavaAdded,,The Java runtime has been added to the launcher,Java 运行时已添加到启动器,Java 運行時已添加到啟動器,Среда выполнения Java добавлена ​​в лаунчер,Середовище виконання Java додано до лаунчера
+_JavaSearched,,Searched Java runtime added to launcher,已将搜索到的 Java 运行时添加到启动器,已將搜尋到的 Java 執行環境新增至啟動器,Поиск среды выполнения Java добавлен в лаунчер,Пошук середовища виконання Java додано до лаунчера
+_JavaSearchFailed,,An exception occurred while searching the Java runtime,搜索 Java 运行时时发生异常,搜尋 Java 運行時時發生異常,Произошло исключение при поиске среды выполнения Java,Під час пошуку середовища виконання Java стався виняток
+_AccountYggdrasilProfileConfirmationFailed,,The profile of this yggdrasil account could't be confirmed,无法确认此 Yggdrasil 帐户的个人资料,無法確認此 Yggdrasil 賬號的個人檔案,Профиль этой учетной записи yggdrasil не может быть подтвержден,Профіль цього облікового запису yggdrasil не вдалося підтвердити
+_AccountRefreshed,,Successfully refreshed the access token for this account,成功刷新此账户的访问令牌,成功更新此賬號的存取權杖,Успешно обновлен токен доступа для этой учетной записи,Токен доступу для цього облікового запису успішно оновлено
+_AccountRefreshFailed,,Unable to refresh the access token for this account,无法刷新此账户的访问令牌,無法更新此賬號的存取權杖,Не удалось обновить токен доступа для этой учетной записи,Не вдається оновити токен доступу для цього облікового запису
+_AccountRefreshFailedDescription,,Please log back into this account to manually refresh the token,请重新登录此账户，以手动刷新令牌,請重新登入此賬號，以手動更新權杖,"Пожалуйста, войдите в эту учетную запись, чтобы вручную обновить токен","Будь ласка, знову увійдіть у цей обліковий запис, щоб вручну оновити токен"
+_AccountAdded,,Account successfully added to the launcher,账户已成功添加到启动器,賬號已成功新增至啟動器,Учетная запись успешно добавлена ​​в лаунчер,Обліковий запис успішно додано до лаунчера
+_AccountAddedDescription,,"Welcome back, ${name}",欢迎回来，${name},歡迎回來，${name},"С возвращением, ${name}","Ласкаво просимо назад, ${name}"
+_AccountExisted,,The account already exists and the data of the account has been replaced,该账户已存在，已替换该账户的数据,該賬號已存在，已替換該賬號的資料,"Учетная запись уже существует, и данные учетной записи были заменены","Обліковий запис вже існує, і дані облікового запису замінено"
+_SkinUploadFailed,,An exception occurred while uploading the skin,上传皮肤过程中发生异常,上傳外觀過程中發生异常,Произошло исключение при загрузке скина,Під час завантаження скіна стався виняток
+_TaskCreated_ModDownload,,Mod download task created,模组下载任务已创建,模組下載任務已建立,Создана задача загрузки мода,Створено завдання завантаження мода
+_TaskFailed_Launch,,An exception occurred while launching Minecraft instance,启动 Minecraft 实例过程中发生异常,啟動 Minecraft 實例過程中發生異常,Произошло исключение при запуск экземпляра Minecraft,Під час запуску екземпляра Minecraft стався виняток
+_TaskFailed_Install,,An exception occurred while installing the Minecraft instance,安装 Minecraft 实例过程中发生异常,安裝 Minecraft 實例過程中發生異常,Произошла исключительная ситуация при установке экземпляра Minecraft,Під час встановлення екземпляра Minecraft стався виняток
+_InstanceDeleted,,Successfully deleted this Minecraft instance,成功删除此 Minecraft 实例,成功删除此 Minecraft 實例,Успешно удален этот экземпляр Minecraft,Цей Minecraft успішно видалено екземпляр
+_InstanceDeleteFailed,,An exception occurred while deleting the Minecraft instance,删除 Minecraft 实例时发生异常,删除 Minecraft 實例時發生異常,Произошла исключительная ситуация при удалении экземпляра Minecraft,Під час видалення екземпляра Minecraft стався виняток
+_InstanceDeleteFailedDescription,,"The files of this Minecraft instance may be occupied by other processes, please terminate the process and try again",此 Minecraft  实例的文件可能被其他进程占用，请解除进程后重试,此 Minecraft 實例的檔案可能被其他程序佔用，請解除程序後重試,"Файлы этого экземпляра Minecraft могут быть заняты другими процессами, пожалуйста, завершите процесс и повторите попытку","Файли цього екземпляра Minecraft можуть бути зайняті іншими процесами, будь ласка, завершіть процес і спробуйте ще раз"
+_SkinDisplayExceptionT,,Skin model loading failed,皮肤模型加载失败,皮膚模型載入失敗,Загрузка модели скина не удалась,Завантаження моделі скіна не вдалося
+_SkinDisplayExceptionD,,Failed to obtain skin file or model type. This may be due to account access token expiration. Please refresh the account to try to solve it.,获取皮肤文件或模型类型失败，这可能是由于账户访问令牌过期导致的，请刷新账户尝试解决,取得皮膚檔案或模型類型失敗，這可能是由於帳戶存取權杖過期導致的，請刷新帳戶嘗試解決,"Не удалось получить файл скина или тип модели. Это может быть связано с истечением срока действия токена доступа к учетной записи. Пожалуйста, обновите учетную запись, чтобы попытаться решить эту проблему.","Не вдалося отримати файл скіна або тип моделі. Можливо, це пов'язано із закінченням терміну дії токена доступу до облікового запису. Будь ласка, оновіть обліковий запис, щоб спробувати вирішити цю проблему."
 _LogExported,,Log file exported successfully,日志文件已成功导出,日志文件已成功导出,Файл журнала успешно экспортирован,Файл журналу успішно експортовано
-_LauncherIsLatest,,The launcher is already the latest preview channel version,启动器已是最新预览通道版本,,,
-_LauncherHasUpdate,,There's a new launcher update in the preview channel,预览通道有新的启动器更新,預覽頻道有新的啟動器更新,,
-_ArgumentsCopied,,The launch parameters have been copied to the clipboard,启动参数已复制到剪切板,,,
-_ModDeleteInquire,,Are you sure you want to delete this mod?,你确定要删除该模组吗？,,,
-_ModDeleted,,The mod has been deleted,已删除该模组,,,
-_ModAdded,,${count} mods have been added to this instance,${count} 个模组已添加到该实例,,,
-_ModDrag,,You can drag and drop mod files to this page to add modules to this instance.,可以将模组文件拖拽至此页面来添加模组到该实例,,,
+_LauncherIsLatest,,The launcher is already the latest preview channel version,启动器已是最新预览通道版本,啟動器已是最新預覽頻道版本,Лаунчер уже является последней версией канала предварительного просмотра,Запуск вже має останню версію каналу попереднього перегляду
+_LauncherHasUpdate,,There's a new launcher update in the preview channel,预览通道有新的启动器更新,預覽頻道有新的啟動器更新,В канале предварительного просмотра есть новое обновление лаунчера,У каналі попереднього перегляду є нове оновлення запуску
+_ArgumentsCopied,,The launch parameters have been copied to the clipboard,启动参数已复制到剪切板,啟動參數已複製到剪切板,Параметры запуска были скопированы в буфер обмена,Параметри запуску скопійовано в буфер обміну
+_ModDeleteInquire,,Are you sure you want to delete this mod?,你确定要删除该模组吗？,你確定要刪除該模組嗎？,"Вы уверены, что хотите удалить этот мод?","Ви впевнені, що хочете видалити цей мод?"
+_ModDeleted,,The mod has been deleted,已删除该模组,已刪除該模組,Мод был удален,Мод видалено
+_ModAdded,,${count} mods have been added to this instance,${count} 个模组已添加到该实例,${count} 個模組已新增至該實例,${count} модов были добавлены в этот экземпляр,До цього екземпляра додано ${count} модів
+_ModDrag,,You can drag and drop mod files to this page to add modules to this instance.,可以将模组文件拖拽至此页面来添加模组到该实例,可以將模組檔案拖曳至此頁面來新增模組到該實例,"Вы можете перетащить файлы модов на эту страницу, чтобы добавить модули в этот экземпляр.","Ви можете перетягувати файли модів на цю сторінку, щоб додавати модулі до цього екземпляра."
