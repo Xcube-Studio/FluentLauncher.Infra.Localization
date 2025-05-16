@@ -1,0 +1,8 @@
+﻿Id,Property,en-US,zh-Hans,zh-Hant,ru-RU,uk-UA
+T,Text,Preview Channel Update,预览通道更新,預覽頻道更新,Обновления канала Preview,Оновлення каналу попереднього перегляду
+ToggleSwitch,OffContent,Download from GitHub Releases,从 GitHub Releases 下载,從 GitHub Releases 下載,Загрузить с GitHub Releases,Завантажити з GitHub Релізи
+ToggleSwitch,OnContent,Download from our source server,从我们的源服务器下载,從我們的來源伺服器下載,Загрузить с нашего исходного сервера,Завантажити з нашого вихідного сервера
+Text1,Text,GitHub Page,GitHub 页面,GitHub 頁面,Страница GitHub,Сторінка GitHub
+Text2,Text,"This may take some time, please do not force close the app",这可能需要花费一些时间，请不要强制关闭应用程序,這可能需要花費一些時間，請不要強制關閉應用程式,"Это может занять некоторое время, пожалуйста, не закрывайте приложение принудительно","Це може зайняти деякий час, будь ласка, не закривайте програму примусово"
+Text3,Text,Update failed. A problem occurred during the installation process. The following is the installation log. Click to open it.,更新失败。更新过程中发生异常，下面是安装日志，点击以打开。,更新失敗。更新過程中發生異常，以下是安裝日誌，點擊以開啟。,"Обновление не удалось. Во время обновления произошло исключение. Ниже приведен журнал установки, нажмите, чтобы открыть.","Оновлення не вдалося. Під час оновлення стався виняток. Нижче наведено журнал встановлення, натисніть, щоб відкрити."
+Button,Text,Update,更新,更新,Обновить,Оновлення
