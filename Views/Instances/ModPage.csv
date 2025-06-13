@@ -5,3 +5,7 @@ Card2,Description,"Even if the mods listed below exist, they will not be loaded"
 Card2,Header,This game does not have a mod loader or the loader does not support mods,此游戏没有模组加载器或该加载器不支持模组,此遊戲沒有模組載入器或該載入器不支援模組,В этой игре нет загрузчика модов или загрузчик не поддерживает моды,У цій грі немає завантажувача модів або завантажувач не підтримує моди
 Text1,Text,No Mods,没有模组,沒有模組,Без модов,Без модів
 Text2,Text,Download Mods,下载模组,下載模組,Скачать моды,Завантажити моди
+Text3,Text,More..,更多..,更多..,Более..,Більше..
+MenuItem1,Text,Show in Explorer,在文件资源管理器中显示,在資源管理器中顯示,Показать в проводнике,Показати в Провіднику
+MenuItem2,Text,Delete,删除模组,刪除,Удалить,Видалити
+MenuItem3,Text,Search on mcmod.cn,在 mcmod.cn 上搜索,在 mcmod.cn 上搜索,Поиск на mcmod.cn,Пошук на mcmod.cn
