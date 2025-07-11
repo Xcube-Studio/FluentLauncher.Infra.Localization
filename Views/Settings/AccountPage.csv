@@ -9,7 +9,6 @@ Card2,Header,Launch the game with a Demo account,使用 Demo 帐户启动游戏,
 Card3,Description,Automatically refresh Token before each launch,每次启动前自动刷新令牌,每次啟動前自動刷新令牌,Автоматически обновлять токен перед каждым запуском,Автоматично оновлювати токен перед кожним запуском
 Card3,Header,Auto refresh account,自动刷新帐户,自動刷新帳戶,Автоматическое обновление учетной записи,Автоматичне оновлення облікового запису
 Card4,Header,Manage skins and capes,管理皮肤和披风,管理皮膚和披風,Управление скинами и плащами,Керування скінами та плащами
-Card5,Header,Open the current skin file in Explorer,在资源管理器中打开当前皮肤文件,在資源管理器中開啟目前皮膚文件,Откройте текущий файл скина в проводнике.,Відкрийте поточний файл скіна в провіднику.
 Text1,Text,"Preview the current skin, or change the skin",预览当前皮肤，或更换皮肤,預覽目前皮膚，或更換皮膚,Предварительный просмотр текущего скина или изменение скина,Попередній перегляд поточного скіна або зміна скіна
 Text2,Text,Offline accounts do not support skin function,离线帐户不支持皮肤功能,離線帳戶不支援皮膚功能,Пиратские аккаунты не поддерживают смену скина,Піратські акаунти не підтримують зміну скіна
 Text3,Text,Uuid:,通用唯一识别码 (UUID)：,通用唯一識別碼 (UUID)：,Uuid:,Uuid:
