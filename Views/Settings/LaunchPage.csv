@@ -29,5 +29,5 @@ Card12,Header,Preferred Game File Verification Method,首选游戏文件验证�
 Text1,Text,Minecraft Folder,Minecraft 文件夹,Minecraft 資料夾,Папка Майнкрафт,Папка Майнкрафт
 Text2,Text,No Folder,没有文件夹,沒有資料夾,Нет папки,Немає папки
 Text3,Text,No Java Runtime,没有 Java 运行时,沒有 Java 運行時,Нет Java Runtime,Немає Java Runtime
-Text4,Text,Enabled,已启用,已啟用,Включено,Включено
+Text4,Text,Enabled,已启用,已啟用,Активно,Включено
 _Items1,,Sha1;File Size,校验文件 Sha1;校验文件大小,校驗檔 Sha1;校驗檔大小,Sha1;Размер файла,Sha1;Розмір файлу
