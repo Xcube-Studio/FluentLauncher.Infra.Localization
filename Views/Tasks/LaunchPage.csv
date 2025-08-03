@@ -6,11 +6,13 @@ Text3,Text,Go to HomePage and launch a Game,转到主页并启动游戏,前往�
 _Items,,Within a day;Nearly three days;Last week;All time,一天之内;近三天;上周;所有时间,一天之內;近三天;上週;所有時間,В течение дня;Почти три дня;На прошлой неделе;Все время, протягом дня;Майже три дні;Минулого тижня;Весь час
 CheckBox,Content,Show historical launch records,显示历史启动记录,顯示歷史啟動記錄,Показать исторические записи запуска,Показати історичні записи запуску
 Item_H5,Text,Reason:,原因：,原因：,Причина: ,Причина: 
-B1,Text,Open Log,显示日志,顯示日誌,Открыть лог,Відкрити лог
-B2,Text,Kill Process,终止进程,終止進程,Завершить процесс,Завершити процес
-B3,Text,Open Report,显示报告,顯示報告,Открыть отчёт,Відкрити звіт
-B4,Text,Show Details,显示详细信息,顯示詳細信息,Показать детали,Показати деталі
-B5,Text,Copy Launch Arguments,复制启动参数,复制启动参数,Копировать Аргументы Запуска,Копіювати Аргументи Запуску
+B1,Text,Kill Process,终止进程,終止進程,Завершить процесс,Завершити процес
+B2,Text,Export Analysis Package,导出分析包,导出分析包,Пакет анализа экспорта,Пакет аналізу експорту
+AB1,Label,Open Logger,显示日志,顯示日誌,Открыть лог,Відкрити лог
+AB2,Label,Copy Launch Arguments,复制启动参数,复制启动参数,Копировать Аргументы Запуска,Копіювати Аргументи Запуску
+AB3,Label,Retry Launch,重试启动,重試啟動,Retry Launch,Retry Launch
+AB4,Label,Remove Task,移除该任务,移除該任務,Remove Task,Remove Task
+AB5,Label,Instance Settings,转到实例设置,轉到實例設定,Instance Settings,Instance Settings
 _TaskName_CheckNeeds,,Check the items required for launch,检查启动所需项目,檢查啟動所需項目,"Проверьте элементы, необходимые для запуска","Перевірте елементи, необхідні для запуску"
 _TaskName_Authenticate,,Refresh the account verification token,刷新账户验证令牌,刷新帳戶驗證令牌,Обновить токен подтверждения аккаунта,Оновіть маркер підтвердження облікового запису
 _TaskName_CompleteResources,,Check and complete the launch resources,检查补全游戏资源,檢查補全遊戲資源,Проверьте наличие полных ресурсов игры,Перевірте та заповніть ресурси запуску
