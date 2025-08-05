@@ -1,0 +1,5 @@
+﻿Id,Property,en-US,zh-Hans,zh-Hant,ru-RU,uk-UA
+Dialog,Title,Select a theme color from the background image,从背景图片中选取主题色,從背景圖片中選取主題色,Выберите цвет темы из фонового изображения,Виберіть колір теми з фонового зображення
+Dialog,PrimaryButtonText,Confirm,确认,确认,Подтвердить,Підтвердити
+Dialog,SecondaryButtonText,Cancel,取消,取消,Отмена,Скасування
+TextBlock,Text,Colors that might be suitable for use as accent colors,可能适合用作主题色的颜色,可能適合用作主題色的顏色,"Цвета, которые могут подойти для использования в качестве акцентных цветов","Кольори, які можуть підійти для використання як акцентні кольори"
