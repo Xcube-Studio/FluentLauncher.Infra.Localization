@@ -29,7 +29,7 @@ _SkinDisplayExceptionD,,Failed to obtain skin file or model type. This may be du
 _LogExported,,Log file exported successfully,日志文件已成功导出,日志文件已成功导出,Файл журнала успешно экспортирован,Файл журналу успішно експортовано
 _LauncherIsLatest,,The launcher is already the latest preview channel version,启动器已是最新预览通道版本,啟動器已是最新預覽頻道版本,Лаунчер уже является последней версией канала предварительного просмотра,Запуск вже має останню версію каналу попереднього перегляду
 _LauncherHasUpdate,,There's a new launcher update in the preview channel,预览通道有新的启动器更新,預覽頻道有新的啟動器更新,В канале предварительного просмотра есть новое обновление лаунчера,У каналі попереднього перегляду є нове оновлення запуску
-_ArgumentsCopied,,The launch parameters have been copied to the clipboard,启动参数已复制到剪切板,啟動參數已複製到剪切板,Параметры запуска были скопированы в буфер обмена,Параметри запуску скопійовано в буфер обміну
+_DownloadUrlCopied,,Download link copied,下载链接已复制,下載連結已複製,Ссылка на скачивание скопирована,Посилання для завантаження скопійовано
 _ModDeleteInquire,,Are you sure you want to delete this mod?,你确定要删除该模组吗？,你確定要刪除該模組嗎？,"Вы уверены, что хотите удалить этот мод?","Ви впевнені, що хочете видалити цей мод?"
 _ModDeleted,,The mod has been deleted,已删除该模组,已刪除該模組,Мод был удален,Мод видалено
 _ModAdded,,${count} mods have been added to this instance,${count} 个模组已添加到该实例,${count} 個模組已新增至該實例,${count} модов были добавлены в этот экземпляр,До цього екземпляра додано ${count} модів
