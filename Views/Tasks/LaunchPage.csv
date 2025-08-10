@@ -8,7 +8,7 @@ CheckBox,Content,Show historical launch records,显示历史启动记录,顯示�
 B1,Text,Kill Process,终止进程,終止進程,Завершить процесс,Завершити процес
 B2,Text,Export Analysis Package,导出分析包,导出分析包,Пакет анализа экспорта,Пакет аналізу експорту
 AB1,Label,Open Logger,显示日志,顯示日誌,Открыть лог,Відкрити лог
-AB2,Label,Copy Launch Arguments,复制启动参数,复制启动参数,Копировать Аргументы Запуска,Копіювати Аргументи Запуску
+AB2,Label,Create Launch Script,创建启动脚本,建立啟動腳本,Создать скрипт запуска,Створити скрипт запуску
 AB3,Label,Retry Launch,重试启动,重試啟動,Retry Launch,Retry Launch
 AB4,Label,Remove Task,移除该任务,移除該任務,Remove Task,Remove Task
 AB5,Label,Instance Settings,转到实例设置,轉到實例設定,Instance Settings,Instance Settings

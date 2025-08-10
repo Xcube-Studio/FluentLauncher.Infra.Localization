@@ -6,5 +6,26 @@ AB1,Label,Open in File Explorer,在文件资源管理器中打开,在檔案總�
 AB2,Label,Copy Download Link,复制下载链接,複製下載連結,Копировать ссылку для скачивания,Копіювати посилання для завантаження
 AB3,Label,Retry Download,重试下载,重試下載,Повторить загрузку,Повторити завантаження
 AB4,Label,Remove Task,移除该任务,移除該任務,Remove Task,Remove Task
+AB5,Label,Retry Install,重试安装,重試安裝,Повторить установку,Повторити встановлення
+AB6,Label,Launch Instance,启动实例,啟動實例,Запустить экземпляр,Запустити екземпляр
+AB7,Label,Open Instance Folder,打开实例文件夹,打開實例資料夾,Открыть папку экземпляра,Відкрити папку екземпляра
 DownloadModTitle,Text,Download Mod:,下载模组：,下載模組：,Скачать мод:,Завантажити мод:
 InstallInstanceTitle,Text,Install Instance:,安装实例：,安裝實例：,Установить экземпляр: ,Встановити екземпляр:
+_VanillaInstallationStage_DownloadVersionJson,,Download the vanilla version manifest file,下载原版版本清单文件,下載原始版本清單文件,Скачать файл манифеста версии vanilla,Завантажити файл маніфесту звичайної версії
+_VanillaInstallationStage_DownloadAssetIndexJson,,Download the vanilla assets manifest file,下载原版材质清单文件,下載原始材質清單文件,Скачать файл манифеста ресурсов vanilla,Завантажити файл маніфесту ресурсів звичайної версії
+_VanillaInstallationStage_DownloadMinecraftDependencies,,Download the vanilla dependency library and assets files,下载原版依赖库及材质文件,下載原版依賴函式庫及材質文件,Скачать библиотеку зависимостей vanilla и файлы ресурсов,Завантажити бібліотеку залежностей та файли ресурсів звичайної версії
+_ForgeInstallationStage_ParseOrInstallVanillaInstance,,Parse or install the vanilla instance,解析或安装原版实例,解析或安裝原始實例,Проанализировать или установить экземпляр vanilla,Проаналізувати або встановити екземпляр звичайної версії
+_ForgeInstallationStage_DownloadForgePackage,,Download the (Neo)Forge installation package,下载 (Neo)Forge 安装包文件,下載 (Neo)Forge 安裝套件文件,Скачать установочный пакет (Neo)Forge,Завантажити інсталяційний пакет (Neo)Forge
+_ForgeInstallationStage_WriteDependenciesAndVersionFiles,,Write the (Neo)Forge dependency files and version manifest file,写入 (Neo)Forge 依赖文件及版本清单文件,寫入 (Neo)Forge 依賴檔案及版本清單文件,Создать файлы зависимостей (Neo)Forge и файл манифеста версии,Написати файли залежностей (Neo)Forge та файл маніфесту версій
+_ForgeInstallationStage_DownloadForgeDependencies,,Download the (Neo)Forge dependency library files,下载 (Neo)Forge 依赖库文件,下載 (Neo)Forge 依賴庫文件,Скачать файлы библиотеки зависимостей (Neo)Forge,Завантажити файли бібліотеки залежностей (Neo)Forge
+_ForgeInstallationStage_RunCompileProcess,,Run the (Neo)Forge compilation process,运行 (Neo)Forge 编译进程,運行 (Neo)Forge 編譯進程,Запустить процесс компиляции (Neo)Forge,Запустити процес компіляції (Neo)Forge
+_OptiFineInstallationStage_ParseOrInstallVanillaInstance,,Parse or install the vanilla instance,解析或安装原版实例,解析或安裝原始實例,Проанализировать или установить экземпляр vanilla,Проаналізувати або встановити екземпляр звичайної версії
+_OptiFineInstallationStage_DownloadOptiFinePackage,,Download the OptiFine installation package,下载 OptiFine 安装包文件,下載 OptiFine 安裝套件文件,Скачать установочный пакет OptiFine,Завантажити інсталяційний пакет OptiFine
+_OptiFineInstallationStage_WriteDependenciesAndVersionFiles,,Write the OptiFine dependency files and version manifest file,写入 OptiFine 依赖文件及版本清单文件,寫入 OptiFine 依賴文件及版本清單文件,Создать файлы зависимостей OptiFine и файл манифеста версии,Написати файли залежностей OptiFine та файл маніфесту версій
+_OptiFineInstallationStage_RunCompileProcess,,Run the OptiFine compilation process,运行 OptiFine 编译进程,執行 OptiFine 編譯進程,Запустить процесс компиляции OptiFine,Запустити процес компіляції OptiFine
+_FabricInstallationStage_ParseOrInstallVanillaInstance,,Parse or install the vanilla instance,解析或安装原版实例,解析或安裝原始實例,Проанализировать или установить экземпляр vanilla,Проаналізувати або встановити екземпляр звичайної версії
+_FabricInstallationStage_DownloadFabricClientJson,,Download the Fabric version manifest file,下载 Fabric 版本清单文件,下載 Fabric 版本清單文件,Скачать файл манифеста версии Fabric,Завантажити файл маніфесту версії Fabric
+_FabricInstallationStage_DownloadFabricLibraries,,Download the Fabric dependency library files,下载 Fabric 依赖库文件,下載 Fabric 依賴庫文件,Скачать файлы библиотеки зависимостей Fabric,Завантажити файли бібліотеки залежностей Fabric
+_QuiltInstallationStage_ParseOrInstallVanillaInstance,,Parse or install the vanilla instance,解析或安装原版实例,解析或安裝原始實例,Проанализировать или установить экземпляр vanilla,Проаналізувати або встановити екземпляр звичайної версії
+_QuiltInstallationStage_DownloadQuiltClientJson,,Download the Quilt version manifest file,下载 Quilt 版本清单文件,下載 Quilt 版本清單文件,Скачать файл манифеста версии Quilt,Завантажити файл маніфесту версії Quilt
+_QuiltInstallationStage_DownloadQuiltLibraries,,Download the Quilt dependency library files,下载 Quilt 依赖库文件,下載 Quilt 依賴庫文件,Скачать файлы библиотеки зависимостей Quilt,Завантажити файли бібліотеки залежностей Quilt
