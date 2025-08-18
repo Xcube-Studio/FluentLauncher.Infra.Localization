@@ -5,14 +5,16 @@ Text2,Text,No Task,无任务,無任務,Нет задач,Немає завдан
 Text3,Text,Go to HomePage and launch a Game,转到主页并启动游戏,前往主頁並啟動遊戲,Перейти на главную страницу и запустить игру,Перейти на домашню сторінку і запустити гру
 _Items,,Within a day;Nearly three days;Last week;All time,一天之内;近三天;上周;所有时间,一天之內;近三天;上週;所有時間,В течение дня;Последние три дня;Прошлая неделя;Все время, протягом дня;Майже три дні;Минулого тижня;Весь час
 CheckBox,Content,Show historical launch records,显示历史启动记录,顯示歷史啟動記錄,Показать историю запусков,Показати історичні записи запуску
-Item_H5,Text,Reason:,原因：,原因：,Причина:,Причина: 
-B1,Text,Open Log,显示日志,顯示日誌,Показать логи,Відкрити лог
-B2,Text,Kill Process,终止进程,終止進程,Завершить процесс,Завершити процес
-B3,Text,Open Report,显示报告,顯示報告,Показать отчёт,Відкрити звіт
-B4,Text,Show Details,显示详细信息,顯示詳細信息,Показать детали,Показати деталі
-B5,Text,Copy Launch Arguments,复制启动参数,复制启动参数,Копировать аргументы запуска,Копіювати Аргументи Запуску
+B1,Text,Kill Process,终止进程,終止進程,Завершить процесс,Завершити процес
+B2,Text,Export Analysis Package,导出分析包,导出分析包,Пакет анализа экспорта,Пакет аналізу експорту
+AB1,Label,Open Log,显示日志,顯示日誌,Показать логи,Відкрити лог
+AB2,Label,Create Launch Script,创建启动脚本,建立啟動腳本,Создать скрипт запуска,Створити скрипт запуску
+AB3,Label,Retry Launch,重试启动,重試啟動,Retry Launch,Retry Launch
+AB4,Label,Remove Task,移除该任务,移除該任務,Remove Task,Remove Task
+AB5,Label,Instance Settings,转到实例设置,轉到實例設定,Instance Settings,Instance Settings
 _TaskName_CheckNeeds,,Check the items required for launch,检查启动所需项目,檢查啟動所需項目,Проверка необходимых для запуска элементов,"Перевірте елементи, необхідні для запуску"
 _TaskName_Authenticate,,Refresh the account verification token,刷新账户验证令牌,刷新帳戶驗證令牌,Обновление токена аутентификации аккаунта,Оновіть маркер підтвердження облікового запису
 _TaskName_CompleteResources,,Check and complete the launch resources,检查补全游戏资源,檢查補全遊戲資源,Проверка и дополнение игровых ресурсов,Перевірте та заповніть ресурси запуску
 _TaskName_BuildArguments,,Build the launch process parameters,构建启动进程参数,建構啟動進程參數,Построение параметров процесса запуска,Побудуйте параметри процесу запуску
 _TaskName_LaunchProcess,,Start the Minecraft process,启动 Minecraft 进程,啟動 Minecraft 流程,Запуск процесса Minecraft,Запустіть процес Minecraft
+LaunchTitle,Text,Launch Minecraft:,启动 Minecraft：,啟動 Minecraft：,Запустить Minecraft: ,Запустити Minecraft:
