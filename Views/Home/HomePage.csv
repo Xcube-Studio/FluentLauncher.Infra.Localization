@@ -2,10 +2,10 @@
 LaunchButton,Text,Launch Minecraft,启动 Minecraft,啟動 Minecraft,Запустить Minecraft,Запустити Minecraft
 HyperlinkButton,Text,Manage Instances,管理实例,管理實例,Управление экземплярами,Керування екземплярами
 AddAccountTB,Text,Add an account,添加账户,新增帳戶,Добавить аккаунт,Додайте обліковий запис
-ManageAccountsTB,Text,Manage accounts,管理账户,管理帳戶,Управлять счетами,Керувати обліковими записами
+ManageAccountsTB,Text,Manage accounts,管理账户,管理帳戶,Управление аккаунтами,Керувати обліковими записами
 Details,Text,Details,详细信息,細節,Подробности,Подробиці
 Continue,Text,Continue,继续,繼續,Продолжить,Продовжити
 NoInstances,Text,No Instances,没有实例,沒有實例,Нет экземпляров,Немає випадків
 _NoInstanceSelected,,No Instance Selected,未选择实例,未選擇實例,Экземпляр не выбран,Примірник не вибрано
-_CancelLaunch,,Cancel Launch Minecraft,取消启动 Minecraft,取消啟動 Minecraft,Отмена Запустить Minecraft,Скасувати Запустити Minecraft
+_CancelLaunch,,Cancel Launch Minecraft,取消启动 Minecraft,取消啟動 Minecraft,Отменить запуск Minecraft,Скасувати Запустити Minecraft
 _KillProcess,,Kill Process Minecraft,结束进程 Minecraft,結束進程 Minecraft,Завершить процесс Minecraft,Завершити процес Minecraft
