@@ -21,6 +21,7 @@ _SkinUploadFailed,,An exception occurred while uploading the skin,上传皮肤�
 _TaskCreated_ModDownload,,Mod download task created,模组下载任务已创建,模組下載任務已建立,Создана задача загрузки мода,Створено завдання завантаження мода
 _TaskFailed_Launch,,An exception occurred while launching Minecraft instance,启动 Minecraft 实例过程中发生异常,啟動 Minecraft 實例過程中發生異常,Произошло исключение при запуск экземпляра Minecraft,Під час запуску екземпляра Minecraft стався виняток
 _TaskFailed_Install,,An exception occurred while installing the Minecraft instance,安装 Minecraft 实例过程中发生异常,安裝 Minecraft 實例過程中發生異常,Произошла исключительная ситуация при установке экземпляра Minecraft,Під час встановлення екземпляра Minecraft стався виняток
+_TaskFailed_ModDownload,,An exception occurred while downloading the mod,下载模组过程中发生异常,下載模組過程中發生異常,Произошла ошибка при загрузке мода.,Під час завантаження мода сталася виняткова ситуація
 _InstanceDeleted,,Successfully deleted this Minecraft instance,成功删除此 Minecraft 实例,成功删除此 Minecraft 實例,Успешно удален этот экземпляр Minecraft,Цей Minecraft успішно видалено екземпляр
 _InstanceDeleteFailed,,An exception occurred while deleting the Minecraft instance,删除 Minecraft 实例时发生异常,删除 Minecraft 實例時發生異常,Произошла исключительная ситуация при удалении экземпляра Minecraft,Під час видалення екземпляра Minecraft стався виняток
 _InstanceDeleteFailedDescription,,"The files of this Minecraft instance may be occupied by other processes, please terminate the process and try again",此 Minecraft  实例的文件可能被其他进程占用，请解除进程后重试,此 Minecraft 實例的檔案可能被其他程序佔用，請解除程序後重試,"Файлы этого экземпляра Minecraft могут быть заняты другими процессами, пожалуйста, завершите процесс и повторите попытку","Файли цього екземпляра Minecraft можуть бути зайняті іншими процесами, будь ласка, завершіть процес і спробуйте ще раз"
@@ -29,7 +30,8 @@ _SkinDisplayExceptionD,,Failed to obtain skin file or model type. This may be du
 _LogExported,,Log file exported successfully,日志文件已成功导出,日志文件已成功导出,Файл журнала успешно экспортирован,Файл журналу успішно експортовано
 _LauncherIsLatest,,The launcher is already the latest preview channel version,启动器已是最新预览通道版本,啟動器已是最新預覽頻道版本,Лаунчер уже является последней версией канала предварительного просмотра,Запуск вже має останню версію каналу попереднього перегляду
 _LauncherHasUpdate,,There's a new launcher update in the preview channel,预览通道有新的启动器更新,預覽頻道有新的啟動器更新,В канале предварительного просмотра есть новое обновление лаунчера,У каналі попереднього перегляду є нове оновлення запуску
-_ArgumentsCopied,,The launch parameters have been copied to the clipboard,启动参数已复制到剪切板,啟動參數已複製到剪切板,Параметры запуска были скопированы в буфер обмена,Параметри запуску скопійовано в буфер обміну
+_DownloadUrlCopied,,Download link copied,下载链接已复制,下載連結已複製,Ссылка на скачивание скопирована,Посилання для завантаження скопійовано
+_ExceptionCopied,,Exception information copied,错误信息已复制,錯誤訊息已複製,Информация об исключении скопирована,Інформацію про виняток скопійовано
 _ModDeleteInquire,,Are you sure you want to delete this mod?,你确定要删除该模组吗？,你確定要刪除該模組嗎？,"Вы уверены, что хотите удалить этот мод?","Ви впевнені, що хочете видалити цей мод?"
 _ModDeleted,,The mod has been deleted,已删除该模组,已刪除該模組,Мод был удален,Мод видалено
 _ModAdded,,${count} mods have been added to this instance,${count} 个模组已添加到该实例,${count} 個模組已新增至該實例,${count} модов были добавлены в этот экземпляр,До цього екземпляра додано ${count} модів
