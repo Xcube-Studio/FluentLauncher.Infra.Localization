@@ -1,4 +1,4 @@
-Id,Property,en-US,zh-Hans,zh-Hant,ru-RU,uk-UA
+﻿Id,Property,en-US,zh-Hans,zh-Hant,ru-RU,uk-UA
 NV_Item_1,Content,Home,主页面,主頁面,Главная,Головна
 NV_Item_2,Content,Instances,实例,實例,Экземпляры,Примірники
 NV_Item_3,Content,Download Resources,资源下载,資源下載,Скачивание ресурсов,Завантажити Ресурси
@@ -9,4 +9,6 @@ NV_Item_7,Content,Settings,设置,設置,Настройки,Налаштуван
 NV_SubItem_1,Content,Minecraft Instances,Minecraft 实例,Minecraft 實例,Экземпляры Minecraft,Екземпляри Minecraft
 NV_SubItem_2,Content,Mods,模组,模組,Моды,Моди
 NV_SubItem_3,Content,Modpacks,整合包,整合包,Модпаки,Modpacks
+NV_SubItem_4,Content,TexturePacks,材质包,材质包,Пакеты текстур,Текстурні пакети
+NV_SubItem_5,Content,Shaders,光影,光影,Шейдеры,Шейдери
 AutoSuggestBox,PlaceholderText,Search for something..,搜点什么..,搜點什麼..,Искать что-нибудь..,Шукати що-небудь.

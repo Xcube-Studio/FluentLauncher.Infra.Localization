@@ -1,4 +1,4 @@
-Id,Property,en-US,zh-Hans,zh-Hant,ru-RU,uk-UA
+﻿Id,Property,en-US,zh-Hans,zh-Hant,ru-RU,uk-UA
 _T1,,"Search Minecraft Instance ""{searchText}""","搜索 Minecraft 实例 ""{searchText}""","搜尋 Minecraft 實例 ""{searchText}""","Поиск Minecraft экземпляра ""{searchText}""","Шукати екземпляр Minecraft ""{searchText}"""
 _T2,,"Search CurseForge Resources with name ""{searchText}""","搜索名称为 ""{searchText}"" 的 CurseForge 资源","搜尋名稱為 ""{searchText}"" 的 CurseForge 資源","Поиск ресурсов CurseForge с названием ""{searchText}""","Пошук CurseForge Resources з іменем ""{searchText}"""""
 _T3,,"Search Modrinth Resources with name ""{searchText}""","搜索名称为 ""{searchText}"" 的 Modrinth 资源","搜尋名稱為 ""{searchText}"" 的 Modrinth 資源","Поиск ресурсов Modrinth с названием ""{searchText}""","Пошук Modrinth Resources з іменем ""{searchText}"""""
