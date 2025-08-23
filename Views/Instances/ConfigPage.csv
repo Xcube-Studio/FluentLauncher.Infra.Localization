@@ -5,7 +5,7 @@ T3,Text,JVM Settings,Java 虚拟机设置,Java 虛擬機設置,Настройк�
 Card1,Description,"Only if you enable this item, the following settings will take effect",只有你启用了这一项，下面的设置才会生效,只有你啟用了這一項，下面的設置才會生效,Следующие параметры будут иметь эффект только при включении данного параметра,Наступні параметри матимуть ефект тільки в разі ввімкнення цієї опції
 Card1,Header,Enable specific instance settings,启用特定实例设置,啟用特定實例設置,Включить определенные настройки экземпляра,Увімкніть певні налаштування екземпляра
 Card2,Description,The game will run at versions\${version} directory,游戏将在 versions\${version} 目录下运行,遊戲將在 versions\${version} 目錄下運行,Игра будет запускаться в каталоге versions\${version},Гра запускатиметься в каталозі versions\${version}
-Card2,Header,Core Independent,版本隔离,版本隔離,Независимость ядра,Незалежність ядра
+Card2,Header,Isolated Instance,版本独立,隔離實例,Изолированный экземпляр,Ізольований екземпляр
 Card3,Description,Automatic full screen mode after entering the game,进入游戏后自动全屏模式,進入遊戲後自動全螢幕模式,Автоматически перейти в полноэкранный режим после входа в игру,Автоматично перейти в повноекранний режим після входу в майнкрафт
 Card3,Header,Full Screen Mode,全屏模式,全螢幕模式,Полноэкранный режим,Повноекранний режим
 Card4,Description,The size of the game window being rendered,呈现的游戏窗口大小,呈現的遊戲視窗大小,Размер отображаемого окна игры,Розмір відображуваного вікна гри

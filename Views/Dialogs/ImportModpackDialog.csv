@@ -1,0 +1,10 @@
+﻿Id,Property,en-US,zh-Hans,zh-Hant,ru-RU,uk-UA
+Dialog,PrimaryButtonText,Install,安装,安裝,Установить,Встановити
+Dialog,SecondaryButtonText,Cancel,取消,取消,Отмена,Скасувати
+Dialog,Title,Import Modpack,导入整合包,導入模組包,Импорт модпака,Імпортувати модпак
+Text1,Text,Drag or click to select an modpack file,拖入或点击来选取一个整合包文件,拖入或點選來選取一個模組包文件,"Перетащите или щелкните, чтобы выбрать файл модпака","Перетягніть або клацніть, щоб вибрати файл модпака"
+Text2,Text,Only support CurseForge and Modrinth formats,仅支持 CurseForge 和 Modrinth 格式整合包,僅支援 CurseForge 和 Modrinth 格式模組包,Поддерживаются только форматы CurseForge и Modrinth,Підтримуються лише формати CurseForge та Modrinth
+Text3,Text,"Unsupported format, unable to parse the modpack",不支持的格式，无法解析整合包,不支援的格式，無法解析模組包,"Неподдерживаемый формат, невозможно обработать модпак","Непідтримуваний формат, неможливо розібрати модпак"
+Text4,Text,Id not available,Id 不可用,Id 不可用,Идентификатор недоступен,Ідентифікатор недоступний
+TextBox,Header,Instance Id:,实例 Id：,實例 Id：,Идентификатор экземпляра:,Ідентифікатор екземпляра:
+CheckBox,Content,Modpack installation forces isolated instance,整合包安装强制版本独立,模组包安裝強制隔離實例,Установка Modpack принудительно изолирует экземпляр,Встановлення Modpack примусово ізольований екземпляр
