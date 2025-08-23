@@ -9,7 +9,7 @@ AB4,Label,Remove Task,移除该任务,移除該任務,Remove Task,Remove Task
 AB5,Label,Retry Install,重试安装,重試安裝,Повторить установку,Повторити встановлення
 AB6,Label,Launch Instance,启动实例,啟動實例,Запустить экземпляр,Запустити екземпляр
 AB7,Label,Open Instance Folder,打开实例文件夹,打開實例資料夾,Открыть папку экземпляра,Відкрити папку екземпляра
-DownloadModTitle,Text,Download Mod:,下载模组：,下載模組：,Скачать мод:,Завантажити мод:
+DownloadResourceTitle,Text,Download Resource:,下载资源：,下載資源：,Ресурс для загрузки:,Завантажити ресурс:
 InstallInstanceTitle,Text,Install Instance:,安装实例：,安裝實例：,Установить экземпляр: ,Встановити екземпляр:
 _VanillaInstallationStage_DownloadVersionJson,,Download the vanilla version manifest file,下载原版版本清单文件,下載原始版本清單文件,Скачать файл манифеста версии vanilla,Завантажити файл маніфесту звичайної версії
 _VanillaInstallationStage_DownloadAssetIndexJson,,Download the vanilla assets manifest file,下载原版材质清单文件,下載原始材質清單文件,Скачать файл манифеста ресурсов vanilla,Завантажити файл маніфесту ресурсів звичайної версії

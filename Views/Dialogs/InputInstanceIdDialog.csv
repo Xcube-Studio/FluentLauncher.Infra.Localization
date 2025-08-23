@@ -1,0 +1,6 @@
+﻿Id,Property,en-US,zh-Hans,zh-Hant,ru-RU,uk-UA
+Dialog,PrimaryButtonText,Install,安装,安裝,Установить,Встановити
+Dialog,SecondaryButtonText,Cancel,取消,取消,Отмена,Скасувати
+Dialog,Title,Input Instance Id,输入实例 Id,輸入實例 Id,Введите идентификатор экземпляра,Ідентифікатор екземпляра введення
+TextBox,Header,Instance Id:,实例 Id：,實例 Id：,Идентификатор экземпляра:,Ідентифікатор екземпляра:
+Text,Text,Id not available,Id 不可用,Id 不可用,Идентификатор недоступен,Ідентифікатор недоступний
