@@ -3,11 +3,14 @@ Card1,Header,Launch Settings,启动设置,啟動設定,Параметры зап
 Card1,Description,"Set up your .minecraft folder, Java runtime, and global game settings",设置您的 .minecraft 文件夹、Java 运行时和全局游戏设置,設定您的 .minecraft 資料夾、Java 執行時間和全域遊戲設置,"Настройте папку .minecraft, Java и общие настройки игры","Налаштуйте папку .minecraft, середовище виконання Java і глобальні налаштування гри."
 Card2,Header,Account &amp; Skin Settings,帐户和皮肤设置,帳戶和皮膚設置,Аккаунты и скины,Налаштування акаунта та скіна
 Card2,Description,Manage login accounts and set skins for games,管理登录帐户并设置游戏皮肤,管理登入帳號並設定遊戲皮膚,Управляйте аккаунтами входа и установите игровые скины,Керуйте обліковими записами та встановлюйте скіни для ігор.
-Card3,Header,Download &amp; Cache Settings,下载和缓存设置,下載和快取設定,Скачивание и кэширование,Налаштування завантаження та кешування
-Card3,Description,"Adjust download performance, set download sources, and manage cache",调整下载性能、设置下载源和管理缓存,調整下載效能、設定下載來源和管理緩存,"Настройте производительность и источник скачивания, и управляйте кэшированием","Налаштовуйте продуктивність завантаження, встановлюйте джерела завантаження і керуйте кешуванням."
+Card3,Header,Network &amp; Download settings,网络和下载设置,網路和下載設定,Настройки сети и загрузки,Налаштування мережі та завантаження
+Card3,Description,"Adjust network and download settings, including setting download sources, adjusting download behavior, etc.",调整网络和下载设置，包括设置下载源、调整下载行为等。,調整網路和下載設置，包括設定下載來源、調整下載行為等。,"Настройте параметры сети и загрузки, включая выбор источников загрузки, настройку режима загрузки и т. д.","Налаштуйте налаштування мережі та завантаження, зокрема налаштуйте джерела завантаження, налаштуйте поведінку завантаження тощо."
 Card4,Header,Appearance Settings,外观设置,外觀設定,Внешний вид,Налаштування зовнішнього вигляду
 Card4,Description,Set the application background and set the light/dark mode,设置应用程序背景并设置深浅模式,設定應用程式背景並設定深淺模式,Настройте фон приложения и режим темы,Встановіть тло додатка і встановіть світлий/темний режим.
-Card5,Header,Language Settings,语言设置,語言設定,Выберите язык,Мовні налаштування
-Card6,Description,Xcube Studio ©2022-2025. All rights reserved.,Xcube Studio ©2022-2025. 所有权利保留,Xcube Studio ©2022-2025. 所有權利保留,Xcube Studio ©2022-2025. Все права защищены.,Xcube Studio ©2022-2025. Усі права захищені.
+Card5,Header,Launcher settings,启动器设置,啟動器設定,Настройки лаунчера,Налаштування панелі запуску
+Card5,Description,"Launcher application settings, including user interface behavior, application storage settings, program running logs, etc.",启动器应用设置，包括用户界面行为、应用存储设置、程序运行日志等。,啟動器應用程式設置，包括使用者介面行為、應用程式儲存設置、程式運行日誌等。,"Настройки приложения лаунчера, включая поведение пользовательского интерфейса, настройки хранилища приложений, журналы запуска программ и т. д.","Налаштування програми запуску, включаючи поведінку інтерфейсу користувача, налаштування сховища програми, журнали запуску програми тощо."
+Card6,Header,Language Settings,语言设置,語言設定,Выберите язык,Мовні налаштування
+Card6,Description,The translation is not guaranteed to be 100% accurate. The translated texts for some languages ​​are provided by machine translation or community contributors.,翻译不保证 100% 准确，部分语言的翻译文本由机器翻译或社区贡献者提供,翻譯不保證 100% 準確，部分語言的翻譯文字由機器翻譯或社群貢獻者提供,Перевод не гарантирует 100% точность. Переведённые тексты для некоторых языков предоставлены машинным переводом или участниками сообщества.,Не гарантується 100% точність перекладу. Перекладені тексти для деяких мов надаються машинним перекладом або учасниками спільноти.
+Card7,Description,Xcube Studio ©2022-2025. All rights reserved.,Xcube Studio ©2022-2025. 所有权利保留,Xcube Studio ©2022-2025. 所有權利保留,Xcube Studio ©2022-2025. Все права защищены.,Xcube Studio ©2022-2025. Усі права захищені.
 T1,Text,Language,语言,語言,Язык,Мова
 T2,Text,About,关于,關於,О лаунчере,О
