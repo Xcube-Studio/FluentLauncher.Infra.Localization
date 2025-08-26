@@ -1,8 +1,5 @@
 ﻿Id,Property,en-US,zh-Hans,zh-Hant,ru-RU,uk-UA
 AddVmArgumentDialog_T,Text,Add a single JVM argument,添加单个 JVM 参数,添加单个 JVM 参数,Добавить аргумент JVM,Додати аргумент JVM
-ExceptionDialog,Title,The program has encountered an error,应用程序未捕获的异常,应用程序未捕获的异常,Программа столкнулась с ошибкой,Програма зіткнулася з помилкою
-ExceptionDialog,PrimaryButtonText,Copy and go to GitHub,复制并转到 GitHub,复制并转到 GitHub,Скопировать и перейти на GitHub,Скопіювати та перейти на GitHub
-ExceptionDialog,SecondaryButtonText,Close,关闭,关闭,Закрыть,Закрити
 SwitchAccountDialog,Title,Switch Account,切换账户,切换账户,Сменить аккаунт,Змінити акаунт
 SwitchAccountDialog,PrimaryButtonText,Confirm,确认,确认,Подтвердить,Підтвердити
 SwitchAccountDialog,SecondaryButtonText,Cancel,取消,取消,Отмена,Скасування
