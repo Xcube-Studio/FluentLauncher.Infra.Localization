@@ -1,4 +1,4 @@
-﻿Id,Property,en-US,zh-Hans,zh-Hant,ru-RU,uk-UA
-Page,Tag,Enter Offline Account Profile (2/3),输入离线帐户资料 (2/3),輸入離線帳戶資料 (2/3),Заполните данные пиратского аккаунта (2/3),Заповніть дані піратського акаунта (2/3)
-TB1,PlaceholderText,Name:,名字：,名字：,Ник,Нік
-TB2,PlaceholderText,UUID: (Optional),UUID：（可选）,UUID：（可選）,UUID (Необязательно),UUID (Необов'язково)
+﻿Id,Property,en-US,zh-Hans,zh-Hant,ru-RU,uk-UA,pl-PL,ja-JP,de-DE,ar-SA,fr-FR,es-ES,it-IT
+Page,Tag,Enter Offline Account Profile (2/3),输入离线帐户资料 (2/3),輸入離線帳戶資料 (2/3),Заполните данные пиратского аккаунта (2/3),Дані офлайн-акаунта (2/3),Wprowadź dane konta offline (2/3),オフラインアカウントの情報を入力 (2/3),Offline-Profildaten eingeben (2/3),إدخال بيانات الحساب بدون اتصال (2/3),Saisie du profil hors ligne (2/3),Ingresar perfil sin conexión (2/3),Inserisci profilo offline (2/3)
+TB1,PlaceholderText,Name:,名字：,名字：,Ник,"Ім'я гравця (нік):",Nazwa użytkownika:,プレイヤー名:,Spielername:,اسم اللاعب:,"Nom d'utilisateur :",Nombre de usuario:,Nome utente:
+TB2,PlaceholderText,UUID: (Optional),UUID：（可选）,UUID：（可選）,UUID (Необязательно),"UUID: (Необов'язково)",UUID: (opcjonalnie),UUID: (任意),UUID: (Optional),UUID: (اختياري),UUID : (Optionnel),UUID: (Opcional),UUID: (Facoltativo)

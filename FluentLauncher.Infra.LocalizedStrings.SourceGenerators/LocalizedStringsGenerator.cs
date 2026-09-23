@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Collections.Immutable;
 using System.Diagnostics;
@@ -65,11 +65,12 @@ public class LocalizedStringsGenerator : IIncrementalGenerator
                 static item => item.Left,
                 static item => item.Right
             )
-            .Select((group, token) => group.Right
-                .ToList()
-                .OrderBy(file => file.Filename)
-                .First()
-            )
+            .Select((group, token) =>
+            {
+                var files = group.Right.ToList();
+                var neutral = files.Find(f => f.Filename.Equals(f.ResourceMapName, StringComparison.OrdinalIgnoreCase));
+                return !string.IsNullOrEmpty(neutral.FilePath) ? neutral : files.OrderBy(file => file.Filename).First();
+            })
             .Collect();
 
         context.RegisterSourceOutput(classDeclarations.Combine(reswFilesProvider), Execute);

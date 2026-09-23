@@ -1,5 +1,5 @@
-﻿Id,Property,en-US,zh-Hans,zh-Hant,ru-RU,uk-UA
-Text1,Text,Category,分类,分类,Классификация,Класифікація
-Text2,Text,Version,版本,版本,Версия,Версія
-Text3,Text,No results found,无搜索结果,無搜尋結果,Результатов не найдено,Результатів не знайдено
-Text4,Text,Try other,试试其他,嘗試其他,Попробуйте другой,Спробуйте інше
+﻿Id,Property,en-US,zh-Hans,zh-Hant,ru-RU,uk-UA,pl-PL,ja-JP,de-DE,ar-SA,fr-FR,es-ES,it-IT
+Text1,Text,Category,分类,分类,Классификация,Категорія,Kategoria,カテゴリ,Kategorie,الفئة,Catégorie,Categoría,Categoria
+Text2,Text,Version,版本,版本,Версия,Версія,Wersja,バージョン,Version,الإصدار,Version,Versión,Versione
+Text3,Text,No results found,无搜索结果,無搜尋結果,Результатов не найдено,Нічого не знайдено,Nie znaleziono wyników,検索結果が見つかりません,Keine Ergebnisse gefunden,لم يتم العثور على نتائج,Aucun résultat trouvé,No se encontraron resultados,Nessun risultato trovato
+Text4,Text,Try other,试试其他,嘗試其他,Попробуйте другой,Спробуйте інший запит,Spróbuj innego zapytania,他のキーワードをお試しください,Versuchen Sie eine andere Suche,جرب بحثاً آخر,Essayez une autre recherche,Intente con otra búsqueda,"Prova un'altra ricerca"

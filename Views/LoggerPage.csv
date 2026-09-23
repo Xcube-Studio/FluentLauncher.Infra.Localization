@@ -1,5 +1,5 @@
-﻿Id,Property,en-US,zh-Hans,zh-Hant,ru-RU,uk-UA
-Title,Text,Logger,日志,日誌,Логи,Реєстратор
-Text1,Text,Logger Level Filter:,日志级别过滤器：,日誌等級過濾器：,Фильтр уровня логов: ,Фільтр рівня реєстратора:
-Text2,Text,Export Log File,导出日志文件,匯出日誌文件,Экспорт файла с логами,Експорт файлу журналу
-CheckBox,Content,Auto Scroll to the End,自动滚动到末尾,自動捲動到末尾,Автопрокрутка в конец,Автоматичне прокручування до кінця
+﻿Id,Property,en-US,zh-Hans,zh-Hant,ru-RU,uk-UA,pl-PL,ja-JP,de-DE,ar-SA,fr-FR,es-ES,it-IT
+Title,Text,Logger,日志,日誌,Логи,Журнал подій,Dziennik zdarzeń,ログ,Protokoll,السجل,Journal,Registro,Registro
+Text1,Text,Logger Level Filter:,日志级别过滤器：,日誌等級過濾器：,Фильтр уровня логов: ,Фільтр рівня логів: ,Filtr poziomu logów: ,ログレベルフィルター: ,Filter für Protokollstufe: ,مرشح مستوى السجل: ,Filtre du niveau de journal : ,Filtro de nivel de registro: ,Filtro livello log: 
+Text2,Text,Export Log File,导出日志文件,匯出日誌文件,Экспорт файла с логами,Експортувати файл журналу,Eksportuj plik dziennika,ログファイルをエクスポート,Protokolldatei exportieren,تصدير ملف السجل,Exporter le fichier journal,Exportar archivo de registro,Esporta file di registro
+CheckBox,Content,Auto Scroll to the End,自动滚动到末尾,自動捲動到末尾,Автопрокрутка в конец,Автоматично прокручувати до кінця,Automatycznie przewijaj do dołu,自動的に末尾までスクロール,Automatisch ans Ende scrollen,التمرير التلقائي إلى النهاية,Défilement automatique vers le bas,Desplazar automáticamente al final,Scorri automaticamente fino alla fine

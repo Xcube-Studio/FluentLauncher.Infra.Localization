@@ -1,8 +1,8 @@
-﻿Id,Property,en-US,zh-Hans,zh-Hant,ru-RU,uk-UA
-T1,Text,Latest Release,最新正式版,最新正式版,Последняя официальная версия,Найновіша офіційна версія
-T1_1,Text,Latest Snapshot,最新快照,最新快照,Последний снимок,Найновіший знімок
-T2,Text,All,全部,全部,Все,Всі
-T3,Text,Release Type,发布类型,發布類型,Тип выпуска,Тип випуску
-T4,Text,No results found,无搜索结果,無搜尋結果,Результатов не найдено,Результатів не знайдено
-Text,Text,Try other,试试其他,嘗試其他,Попробуйте другой,Спробуйте інше
-_Items,,Release;Snapshot;Old Beta;Old Alpha,正式版;快照版;远古版 β;远古版 α,正式版;快照版;遠古版 β;遠古版 α,Release;Snapshot;Устаревшая Beta;Устаревшая Alpha,Реліз;Snapshot;Застаріла Beta;Застаріла Alpha
+﻿Id,Property,en-US,zh-Hans,zh-Hant,ru-RU,uk-UA,pl-PL,ja-JP,de-DE,ar-SA,fr-FR,es-ES,it-IT
+T1,Text,Latest Release,最新正式版,最新正式版,Последняя официальная версия,Останній реліз,Najnowsze wydanie,最新のリリース,Neueste Vollversion,أحدث إصدار رسمي,Dernière version finale,Última versión oficial,Ultima versione
+T1_1,Text,Latest Snapshot,最新快照,最新快照,Последний снимок,Останній снапшот,Najnowszy snapshot,最新のスナップショット,Neueste Entwicklungsversion,أحدث نسخة تجريبية,Dernier instantané,Último snapshot,Ultimo snapshot
+T2,Text,All,全部,全部,Все,Усі версії,Wszystkie,すべて,Alle,الكل,Toutes,Todas,Tutte
+T3,Text,Release Type,发布类型,發布類型,Тип выпуска,Тип версії,Typ wydania,リリース種別,Versionstyp,نوع الإصدار,Type de version,Tipo de versión,Tipo di versione
+T4,Text,No results found,无搜索结果,無搜尋結果,Результатов не найдено,Версій не знайдено,Nie znaleziono wyników,検索結果が見つかりません,Keine Ergebnisse gefunden,لم يتم العثور على نتائج,Aucun résultat trouvé,No se encontraron resultados,Nessun risultato trovato
+Text,Text,Try other,试试其他,嘗試其他,Попробуйте другой,Спробуйте інший запит,Spróbuj innego zapytania,他のキーワードをお試しください,Versuchen Sie eine andere Suche,جرب بحثاً آخر,Essayez une autre recherche,Intente con otra búsqueda,"Prova un'altra ricerca"
+_Items,,Release;Snapshot;Old Beta;Old Alpha,正式版;快照版;远古版 β;远古版 α,正式版;快照版;遠古版 β;遠古版 α,Release;Snapshot;Устаревшая Beta;Устаревшая Alpha,Реліз;Снапшот;Стара Beta;Стара Alpha,Wydanie;Snapshot;Stara Beta;Stara Alpha,正式版;スナップショット;旧 Beta;旧 Alpha,Vollversion;Entwicklungsversion;Alte Beta;Alte Alpha,إصدار رسمي;نسخة تجريبية;بيتا قديمة;ألفا قديمة,Version finale;Instantané;Ancienne Beta;Ancienne Alpha,Versión oficial;Snapshot;Beta antigua;Alpha antigua,Rilascio;Snapshot;Vecchia Beta;Vecchia Alpha

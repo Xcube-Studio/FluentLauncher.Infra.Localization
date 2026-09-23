@@ -1,9 +1,9 @@
-﻿Id,Property,en-US,zh-Hans,zh-Hant,ru-RU,uk-UA
-B1,Label,Texture File,材质文件,材質文件,Файл текстуры,Файл текстури
-B2,Label,Switch Cape,切换披风,切換披風,Переключить плащ,Перемикання плащів
-B3,Label,Upload Cape,上传皮肤,上傳皮膚,Загрузить плащ,Завантаження плащів
-B4,Label,Setting on the official website,在官网进行设置,在官網進行設置,Настройки на официальном сайте,Налаштування на офіційному сайті
-_Cape,,Cape,披风,披風,Плащ,Кейп
-_Classic,,Classic Model,经典模型,經典模型,Классическая модель,Класична модель
-_Slim,,Slim Model,纤细模型,纖細模型,Слим-модель,Слім-модель
-_NoCape,,No Active Cape,没有激活的披风,沒有啟用的披風,Нет активного плаща,Без активного плаща
+﻿Id,Property,en-US,zh-Hans,zh-Hant,ru-RU,uk-UA,pl-PL,ja-JP,de-DE,ar-SA,fr-FR,es-ES,it-IT
+B1,Label,Texture File,材质文件,材質文件,Файл текстуры,Файл текстури,Plik tekstury,テクスチャファイル,Texturdatei,ملف النقوش,Fichier de texture,Archivo de textura,File di texture
+B2,Label,Switch Cape,切换披风,切換披風,Переключить плащ,Перемкнути плащ,Przełącz pelerynę,マントを切り替え,Umhang wechseln,تبديل الرداء,Changer de cape,Cambiar capa,Cambia mantello
+B3,Label,Upload Cape,上传皮肤,上傳皮膚,Загрузить плащ,Завантажити плащ,Prześlij pelerynę,マントをアップロード,Umhang hochladen,رفع رداء,Téléverser une cape,Subir capa,Carica mantello
+B4,Label,Setting on the official website,在官网进行设置,在官網進行設置,Настройки на официальном сайте,Налаштування на офіційному сайті,Ustaw na oficjalnej stronie,公式サイトで設定,Auf offizieller Webseite festlegen,الإعداد على الموقع الرسمي,Configurer sur le site officiel,Configurar en el sitio web oficial,Configura sul sito ufficiale
+_Cape,,Cape,披风,披風,Плащ,Плащ,Peleryna,マント,Umhang,الرداء,Cape,Capa,Mantello
+_Classic,,Classic Model,经典模型,經典模型,Классическая модель,Класична модель (Steve),Model klasyczny (Steve),クラシックモデル (Steve),Klassisches Modell (Steve),النموذج الكلاسيكي (ستيف),Modèle classique (Steve),Modelo clásico (Steve),Modello classico (Steve)
+_Slim,,Slim Model,纤细模型,纖細模型,Слим-модель,Тонка модель (Alex),Model smukły (Alex),スリムモデル (Alex),Schlankes Modell (Alex),النموذج النحيف (أليكس),Modèle fin (Alex),Modelo delgado (Alex),Modello snello (Alex)
+_NoCape,,No Active Cape,没有激活的披风,沒有啟用的披風,Нет активного плаща,Без активного плаща,Brak aktywnej peleryny,マントなし,Kein aktiver Umhang,لا يوجد رداء مفعل,Aucune cape active,Sin capa activa,Nessun mantello attivo

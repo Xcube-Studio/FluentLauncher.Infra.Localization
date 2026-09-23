@@ -1,11 +1,11 @@
-﻿Id,Property,en-US,zh-Hans,zh-Hant,ru-RU,uk-UA
-Text1,Text,Filter,过滤条件,過濾條件,Фильтр,Фільтр
-Text2,Text,Sort by,排序方式,排序方式,Сортировать по,Сортувати за
-Text3,Text,No Instances,没有实例,沒有實例,Нет экземпляров,Немає випадків
-Text4,Text,Go To Settings,转到设置,转到设置,Перейти в настройки,Перейти в налаштування
-_Items1,,All;Release;Snapshot;Old,全部;正式版;快照版;远古版,全部;正式版;快照版;遠古版,Любая версия;Релизы;Снапшоты;Устаревшие,всі;Release;Snapshot;Застарілі
-_Items2,,Name;Launch Date,名称;启动日期,名稱;啟動日期,Названию;Дате запуска,Дата запуску
-_FolderError,,The Minecraft data folder is not set or the set folder does not exist,未设置 Minecraft 数据文件夹或设置的文件夹不存在,未設定 Minecraft 資料資料夾或設定的資料夾不存在,Папки данных Minecraft не существует или она не выбрана,Папка даних Minecraft не встановлена або встановлена папка не існує.
-InstallText,Text,Install Instances,安装实例,安裝實例,Установить экземпляры,Встановити екземпляри
-ImportButton,Text,Import Modpack,导入整合包,導入模組包,Импортировать модпак,Імпортувати модпак
-_GoToSettings,,Go To Settings,转到设置,轉到設定,Перейти в настройки,Перейти в налаштування
+﻿Id,Property,en-US,zh-Hans,zh-Hant,ru-RU,uk-UA,pl-PL,ja-JP,de-DE,ar-SA,fr-FR,es-ES,it-IT
+Text1,Text,Filter,过滤条件,過濾條件,Фильтр,Фільтр,Filtruj,フィルター,Filter,تصفية,Filtrer,Filtro,Filtro
+Text2,Text,Sort by,排序方式,排序方式,Сортировать по,Сортування за,Sortuj według,並べ替え,Sortieren nach,ترتيب حسب,Trier par,Ordenar por,Ordina per
+Text3,Text,No Instances,没有实例,沒有實例,Нет экземпляров,Немає екземплярів,Brak instancji,インスタンスがありません,Keine Instanzen,لا توجد مثيلات,Aucune instance,Sin instancias,Nessuna istanza
+Text4,Text,Go To Settings,转到设置,转到设置,Перейти в настройки,Перейти в налаштування,Przejdź do ustawień,設定へ移動,Zu Einstellungen gehen,انتقل إلى الإعدادات,Aller aux paramètres,Ir a configuración,Vai alle impostazioni
+_Items1,,All;Release;Snapshot;Old,全部;正式版;快照版;远古版,全部;正式版;快照版;遠古版,Любая версия;Релизы;Снапшоты;Устаревшие,Усі;Релізи;Снапшоти;Старі версії,Wszystkie;Wydania;Snapshoty;Stare wersje,すべて;正式版;スナップショット;旧バージョン,Alle;Vollversionen;Entwicklungsversionen;Alte Versionen,الكل;إصدار رسمي;نسخة تجريبية;إصدارات قديمة,Toutes;Versions finales;Instantannés;Anciennes versions,Todas;Versiones oficiales;Snapshots;Versiones antiguas,Tutte;Rilasci;Snapshot;Vecchie versioni
+_Items2,,Name;Launch Date,名称;启动日期,名稱;啟動日期,Названию;Дате запуска,За назвою;За датою запуску,Nazwa;Data uruchomienia,名前順;起動日時順,Name;Startdatum,الاسم;تاريخ التشغيل,Nom;Date de lancement,Nombre;Fecha de inicio,Nome;Data di avvio
+_FolderError,,The Minecraft data folder is not set or the set folder does not exist,未设置 Minecraft 数据文件夹或设置的文件夹不存在,未設定 Minecraft 資料資料夾或設定的資料夾不存在,Папки данных Minecraft не существует или она не выбрана,Папка даних Minecraft не налаштована або вказана папка не існує,Folder Minecraft nie jest ustawiony lub nie istnieje,Minecraft フォルダが設定されていないか、存在しません,Der Minecraft-Ordner ist nicht eingerichtet oder existiert nicht,مجلد بيانات ماينكرافت غير معين أو المجلد المحدد غير موجود,"Le dossier Minecraft n'est pas configuré ou n'existe pas",La carpeta de Minecraft no está configurada o no existe,La cartella Minecraft non è impostata o non esiste
+InstallText,Text,Install Instances,安装实例,安裝實例,Установить экземпляры,Встановити версії,Zainstaluj instancje,インスタンスをインストール,Instanzen installieren,تثبيت المثيلات,Installer des instances,Instalar instancias,Installa istanze
+ImportButton,Text,Import Modpack,导入整合包,導入模組包,Импортировать модпак,Імпортувати модпак,Importuj paczkę modów,MOD パックをインポート,Modpack importieren,استيراد حزمة تعديلات,Importer un modpack,Importar modpack,Importa pacchetto mod
+_GoToSettings,,Go To Settings,转到设置,轉到設定,Перейти в настройки,Перейти в налаштування,Przejdź do ustawień,設定へ移動,Zu Einstellungen gehen,انتقل إلى الإعدادات,Aller aux paramètres,Ir a configuración,Vai alle impostazioni
