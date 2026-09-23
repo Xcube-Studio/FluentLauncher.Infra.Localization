@@ -1,4 +1,4 @@
-﻿using Csv;
+using Csv;
 using System;
 using System.Collections.Generic;
 using System.CommandLine;
@@ -134,9 +134,10 @@ void ConvertCsvToResw(string srcPath, string outPath, IEnumerable<string> langua
 
         foreach ((string key, string translatedString) in strings[lang])
         {
+            string safeValue = System.Security.SecurityElement.Escape(translatedString) ?? "";
             reswBuilder.AppendLine($"""
             <data name="{key}" xml:space="preserve">
-                <value>{translatedString}</value>
+                <value>{safeValue}</value>
             </data>
         """);
         }

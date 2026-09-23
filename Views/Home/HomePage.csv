@@ -1,11 +1,11 @@
-﻿Id,Property,en-US,zh-Hans,zh-Hant,ru-RU,uk-UA
-LaunchButton,Text,Launch Minecraft,启动 Minecraft,啟動 Minecraft,Запустить Minecraft,Запустити Minecraft
-HyperlinkButton,Text,Manage Instances,管理实例,管理實例,Управление экземплярами,Керування екземплярами
-AddAccountTB,Text,Add an account,添加账户,新增帳戶,Добавить аккаунт,Додайте обліковий запис
-ManageAccountsTB,Text,Manage accounts,管理账户,管理帳戶,Управление аккаунтами,Керувати обліковими записами
-Details,Text,Details,详细信息,細節,Подробности,Подробиці
-Continue,Text,Continue,继续,繼續,Продолжить,Продовжити
-NoInstances,Text,No Instances,没有实例,沒有實例,Нет экземпляров,Немає випадків
-_NoInstanceSelected,,No Instance Selected,未选择实例,未選擇實例,Экземпляр не выбран,Примірник не вибрано
-_CancelLaunch,,Cancel Launch Minecraft,取消启动 Minecraft,取消啟動 Minecraft,Отменить запуск Minecraft,Скасувати Запустити Minecraft
-_KillProcess,,Kill Process Minecraft,结束进程 Minecraft,結束進程 Minecraft,Завершить процесс Minecraft,Завершити процес Minecraft
+﻿Id,Property,en-US,zh-Hans,zh-Hant,ru-RU,uk-UA,pl-PL,ja-JP,de-DE,ar-SA,fr-FR,es-ES,it-IT
+LaunchButton,Text,Launch Minecraft,启动 Minecraft,啟動 Minecraft,Запустить Minecraft,Запустити Minecraft,Uruchom Minecraft,Minecraft を起動,Minecraft starten,تشغيل ماينكرافت,Lancer Minecraft,Iniciar Minecraft,Avvia Minecraft
+HyperlinkButton,Text,Manage Instances,管理实例,管理實例,Управление экземплярами,Керування екземплярами,Zarządzaj instancjami,インスタンスを管理,Instanzen verwalten,إدارة المثيلات,Gérer les instances,Administrar instancias,Gestisci istanze
+AddAccountTB,Text,Add an account,添加账户,新增帳戶,Добавить аккаунт,Додати акаунт,Dodaj konto,アカウントを追加,Konto hinzufügen,إضافة حساب,Ajouter un compte,Añadir cuenta,Aggiungi account
+ManageAccountsTB,Text,Manage accounts,管理账户,管理帳戶,Управление аккаунтами,Керування акаунтами,Zarządzaj kontami,アカウントを管理,Konten verwalten,إدارة الحسابات,Gérer les comptes,Administrar cuentas,Gestisci account
+Details,Text,Details,详细信息,細節,Подробности,Подробиці,Szczegóły,詳細,Details,التفاصيل,Détails,Detalles,Dettagli
+Continue,Text,Continue,继续,繼續,Продолжить,Продовжити,Kontynuuj,続行,Fortfahren,متابعة,Continuer,Continuar,Continua
+NoInstances,Text,No Instances,没有实例,沒有實例,Нет экземпляров,Немає екземплярів,Brak instancji,インスタンスがありません,Keine Instanzen,لا توجد مثيلات,Aucune instance,Sin instancias,Nessuna istanza
+_NoInstanceSelected,,No Instance Selected,未选择实例,未選擇實例,Экземпляр не выбран,Екземпляр не вибрано,Nie wybrano instancji,インスタンス未選択,Keine Instanz ausgewählt,لم يتم تحديد أي مثيل,Aucune instance sélectionnée,Ninguna instancia seleccionada,Nessuna istanza selezionata
+_CancelLaunch,,Cancel Launch Minecraft,取消启动 Minecraft,取消啟動 Minecraft,Отменить запуск Minecraft,Скасувати запуск Minecraft,Anuluj uruchamianie,Minecraft の起動をキャンセル,Minecraft-Start abbrechen,إلغاء تشغيل ماينكرافت,Annuler le lancement de Minecraft,Cancelar inicio de Minecraft,Annulla avvio di Minecraft
+_KillProcess,,Kill Process Minecraft,结束进程 Minecraft,結束進程 Minecraft,Завершить процесс Minecraft,Примусово завершити процес,Zakończ proces,プロセスを強制終了,Minecraft-Prozess beenden,إنهاء عملية ماينكرافت,Arrêter le processus Minecraft,Finalizar proceso de Minecraft,Termina processo Minecraft

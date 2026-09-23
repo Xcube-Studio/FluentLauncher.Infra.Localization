@@ -1,21 +1,21 @@
-﻿Id,Property,en-US,zh-Hans,zh-Hant,ru-RU,uk-UA
-Activate,Text,Activate,启用,啟用,Активировать,Активувати
-Browse,Text,Browse,浏览,瀏覽,Обзор,Огляд
-Remove,Text,Remove,移除,移除,Удалить,Видалити
-Search,Text,Search,搜索,搜索,Поиск,Пошук
-Refresh,Text,Refresh,刷新,刷新,Обновить,Оновити
-SwitchAccount,Text,Switch Account,切换账户,切換賬戶,Сменить аккаунт,Змінити акаунт
-SignIn,Text,Sign in,登入,登入,Войти,Увійти
-Add,Text,Add,添加,添加,Добавить,Додати
-Back,Text,Back,上一步,上一步,Назад,Назад
-Next,Text,Next,下一步,下一步,Далее,Далі
-Open,Text,Open,打开,打開,Открыть,Відкрити
-Go,Text,Go,前往,前往,Перейти,Перейти
-Cancel,Text,Cancel,取消,取消,Отмена,Скасування
-Download,Text,Download,下载,下載,Скачать,Завантажити
-Create,Text,Create,创建,創造,Создавать,Створити
-Confirm,Text,Confirm,确认,确认,Подтвердить,Підтвердити
-Detect,Text,Detect,探测,探測,Найти,Знайти
-Delete,Text,Delete,删除,刪除,Удалить,Видалити
-Launch,Text,Launch,启动,啟動,Запуск,Запуск
-CopyException,Text,Copy Full Information,复制完整信息,複製完整訊息,Копировать полную информацию,Копіювати повну інформацію
+﻿Id,Property,en-US,zh-Hans,zh-Hant,ru-RU,uk-UA,pl-PL,ja-JP,de-DE,ar-SA,fr-FR,es-ES,it-IT
+Activate,Text,Activate,启用,啟用,Активировать,Активувати,Aktywuj,有効化,Aktivieren,تفعيل,Activer,Activar,Attiva
+Browse,Text,Browse,浏览,瀏覽,Обзор,Огляд,Przeglądaj,参照,Durchsuchen,تصفح,Parcourir,Examinar,Sfoglia
+Remove,Text,Remove,移除,移除,Удалить,Видалити,Usuń,削除,Entfernen,إزالة,Supprimer,Quitar,Rimuovi
+Search,Text,Search,搜索,搜索,Поиск,Пошук,Szukaj,検索,Suchen,بحث,Rechercher,Buscar,Cerca
+Refresh,Text,Refresh,刷新,刷新,Обновить,Оновити,Odśwież,更新,Aktualisieren,تحديث,Actualiser,Actualizar,Aggiorna
+SwitchAccount,Text,Switch Account,切换账户,切換賬戶,Сменить аккаунт,Змінити акаунт,Przełącz konto,アカウント切替,Konto wechseln,تبديل الحساب,Changer de compte,Cambiar de cuenta,Cambia account
+SignIn,Text,Sign in,登入,登入,Войти,Увійти,Zaloguj się,サインイン,Anmelden,تسجيل الدخول,Se connecter,Iniciar sesión,Accedi
+Add,Text,Add,添加,添加,Добавить,Додати,Dodaj,追加,Hinzufügen,إضافة,Ajouter,Añadir,Aggiungi
+Back,Text,Back,上一步,上一步,Назад,Назад,Wstecz,戻る,Zurück,رجوع,Retour,Atrás,Indietro
+Next,Text,Next,下一步,下一步,Далее,Далі,Dalej,次へ,Weiter,التالي,Suivant,Siguiente,Avanti
+Open,Text,Open,打开,打開,Открыть,Відкрити,Otwórz,開く,Öffnen,فتح,Ouvrir,Abrir,Apri
+Go,Text,Go,前往,前往,Перейти,Перейти,Przejdź,移動,Los,انتقال,Aller,Ir,Vai
+Cancel,Text,Cancel,取消,取消,Отмена,Скасувати,Anuluj,キャンセル,Abbrechen,إلغاء,Annuler,Cancelar,Annulla
+Download,Text,Download,下载,下載,Скачать,Завантажити,Pobierz,ダウンロード,Herunterladen,تنزيل,Télécharger,Descargar,Scarica
+Create,Text,Create,创建,創造,Создавать,Створити,Utwórz,作成,Erstellen,إنشاء,Créer,Crear,Crea
+Confirm,Text,Confirm,确认,确认,Подтвердить,Підтвердити,Potwierdź,確認,Bestätigen,تأكيد,Confirmer,Confirmar,Conferma
+Detect,Text,Detect,探测,探測,Найти,Виявити,Wykryj,検出,Erkennen,كشف,Détecter,Detectar,Rileva
+Delete,Text,Delete,删除,刪除,Удалить,Видалити,Usuń,削除,Löschen,حذف,Supprimer,Eliminar,Elimina
+Launch,Text,Launch,启动,啟動,Запуск,Запуск,Uruchom,起動,Starten,تشغيل,Lancer,Iniciar,Avvia
+CopyException,Text,Copy Full Information,复制完整信息,複製完整訊息,Копировать полную информацию,Копіювати повну інформацію,Kopiuj pełne informacje,詳細情報をコピー,Vollständige Informationen kopieren,نسخ المعلومات الكاملة,Copier toutes les informations,Copiar información completa,Copia informazioni complete

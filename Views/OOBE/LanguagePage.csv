@@ -1,4 +1,4 @@
-﻿Id,Property,en-US,zh-Hans,zh-Hant,ru-RU,uk-UA
-Welcome,Text,Welcome,欢迎使用,歡迎使用,Добро пожаловать,Ласкаво просимо
-T,Text,Language,语言,語言,Язык,Мова
-D,Text,Please choose your language before we start setting up Fluent Launcher.,在我们开始设置 Fluent Launcher 之前，请选择您的语言。,在我們開始設置 Fluent Launcher 之前，請選擇您的語言。,"Выберите нужный язык, прежде мы начнем настраивать Fluent Launcher.","Виберіть потрібну мову, перш ніж ми почнемо налаштовувати Fluent Launcher."
+﻿Id,Property,en-US,zh-Hans,zh-Hant,ru-RU,uk-UA,pl-PL,ja-JP,de-DE,ar-SA,fr-FR,es-ES,it-IT
+Welcome,Text,Welcome,欢迎使用,歡迎使用,Добро пожаловать,Ласкаво просимо!,Witaj!,ようこそ,Willkommen,أهلاً بك,Bienvenue,¡Bienvenido!,Benvenuto!
+T,Text,Language,语言,語言,Язык,Мова інтерфейсу,Język,言語,Sprache,اللغة,Langue,Idioma,Lingua
+D,Text,Please choose your language before we start setting up Fluent Launcher.,在我们开始设置 Fluent Launcher 之前，请选择您的语言。,在我們開始設置 Fluent Launcher 之前，請選擇您的語言。,"Выберите нужный язык, прежде мы начнем настраивать Fluent Launcher.","Будь ласка, оберіть мову перед початком налаштування Fluent Launcher.",Wybierz język przed rozpoczęciem konfiguracji Fluent Launcher.,Fluent Launcher の設定を始める前に、言語を選択してください。,"Bitte wählen Sie Ihre Sprache, bevor wir mit der Einrichtung beginnen.",يرجى اختيار لغتك قبل البدء في إعداد Fluent Launcher.,Veuillez choisir votre langue avant de commencer la configuration.,"Por favor, elija su idioma antes de configurar Fluent Launcher.",Scegli la tua lingua prima di configurare Fluent Launcher.

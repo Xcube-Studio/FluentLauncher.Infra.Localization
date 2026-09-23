@@ -1,6 +1,6 @@
-﻿Id,Property,en-US,zh-Hans,zh-Hant,ru-RU,uk-UA
-Dialog,PrimaryButtonText,Install,安装,安裝,Установить,Встановити
-Dialog,SecondaryButtonText,Cancel,取消,取消,Отмена,Скасувати
-Dialog,Title,Input Instance Id,输入实例 Id,輸入實例 Id,Введите идентификатор экземпляра,Ідентифікатор екземпляра введення
-TextBox,Header,Instance Id:,实例 Id：,實例 Id：,Идентификатор экземпляра:,Ідентифікатор екземпляра:
-Text,Text,Id not available,Id 不可用,Id 不可用,Идентификатор недоступен,Ідентифікатор недоступний
+﻿Id,Property,en-US,zh-Hans,zh-Hant,ru-RU,uk-UA,pl-PL,ja-JP,de-DE,ar-SA,fr-FR,es-ES,it-IT
+Dialog,PrimaryButtonText,Install,安装,安裝,Установить,Встановити,Zainstaluj,インストール,Installieren,تثبيت,Installer,Instalar,Installa
+Dialog,SecondaryButtonText,Cancel,取消,取消,Отмена,Скасувати,Anuluj,キャンセル,Abbrechen,إلغاء,Annuler,Cancelar,Annulla
+Dialog,Title,Input Instance Id,输入实例 Id,輸入實例 Id,Введите идентификатор экземпляра,Введіть назву екземпляра,Wprowadź identyfikator instancji,インスタンス ID を入力,Instanz-ID eingeben,إدخال معرف المثيل,"Saisir l'ID de l'instance",Ingresar ID de instancia,Inserisci ID istanza
+TextBox,Header,Instance Id:,实例 Id：,實例 Id：,Идентификатор экземпляра:,Назва (ID) екземпляра:,Identyfikator instancji:,インスタンス ID:,Instanz-ID:,معرف المثيل:,"ID de l'instance :",ID de la instancia:,"ID dell'istanza:"
+Text,Text,Id not available,Id 不可用,Id 不可用,Идентификатор недоступен,Ця назва (ID) уже зайнята або недоступна,ID jest niedostępny,この ID は利用できません,ID nicht verfügbar,المعرف غير متاح,ID non disponible,ID no disponible,ID non disponibile

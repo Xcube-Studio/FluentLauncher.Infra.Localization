@@ -1,10 +1,10 @@
-﻿Id,Property,en-US,zh-Hans,zh-Hant,ru-RU,uk-UA
-AddVmArgumentDialog_T,Text,Add a single JVM argument,添加单个 JVM 参数,添加单个 JVM 参数,Добавить аргумент JVM,Додати аргумент JVM
-SwitchAccountDialog,Title,Switch Account,切换账户,切换账户,Сменить аккаунт,Змінити акаунт
-SwitchAccountDialog,PrimaryButtonText,Confirm,确认,确认,Подтвердить,Підтвердити
-SwitchAccountDialog,SecondaryButtonText,Cancel,取消,取消,Отмена,Скасування
-SwitchAccountDialog_B,Text,Remove Selected Account,删除选中的帐户,刪除選中的帳戶,Удалить выбранный аккаунт,Видалити обраний акаунт
-AuthenticationWizardDialog_T,Text,Account Add Wizard: ,帐户添加向导：,帳戶添加嚮導：,Мастер добавления аккаунта:,Майстер додавання акаунта:
-UploadSkinDialog_T,Text,Upload New Skin File,上传新皮肤文件,上傳新皮膚文件,Загрузить новый файл скина,Завантажити новий файл скіна
-UploadSkinDialog_Box,Header,Skin File Path,皮肤文件路径,皮膚檔案路徑,Путь к файлу скина,Шлях до файлу скіна
-UploadSkinDialog_CheckBox,Content,Use slim Minecraft character shape,使用纤细的 Minecraft 角色外形,使用纖細的 Minecraft 角色外形,Используйте тонкую форму персонажа Minecraft.,Використовуйте тонку форму персонажа Minecraft.
+﻿Id,Property,en-US,zh-Hans,zh-Hant,ru-RU,uk-UA,pl-PL,ja-JP,de-DE,ar-SA,fr-FR,es-ES,it-IT
+AddVmArgumentDialog_T,Text,Add a single JVM argument,添加单个 JVM 参数,添加单个 JVM 参数,Добавить аргумент JVM,Додати окремий аргумент JVM,Dodaj pojedynczy argument JVM,JVM 引数を追加,Einzelnes JVM-Argument hinzufügen,إضافة وسيطة JVM واحدة,Ajouter un argument JVM,Añadir un argumento de JVM,Aggiungi un singolo argomento JVM
+SwitchAccountDialog,Title,Switch Account,切换账户,切换账户,Сменить аккаунт,Змінити акаунт,Przełącz konto,アカウント切替,Konto wechseln,تبديل الحساب,Changer de compte,Cambiar de cuenta,Cambia account
+SwitchAccountDialog,PrimaryButtonText,Confirm,确认,确认,Подтвердить,Підтвердити,Potwierdź,確認,Bestätigen,تأكيد,Confirmer,Confirmar,Conferma
+SwitchAccountDialog,SecondaryButtonText,Cancel,取消,取消,Отмена,Скасувати,Anuluj,キャンセル,Abbrechen,إلغاء,Annuler,Cancelar,Annulla
+SwitchAccountDialog_B,Text,Remove Selected Account,删除选中的帐户,刪除選中的帳戶,Удалить выбранный аккаунт,Видалити вибраний акаунт,Usuń wybrane konto,選択したアカウントを削除,Ausgewähltes Konto entfernen,إزالة الحساب المحدد,Supprimer le compte sélectionné,Eliminar cuenta seleccionada,Rimuovi account selezionato
+AuthenticationWizardDialog_T,Text,Account Add Wizard: ,帐户添加向导：,帳戶添加嚮導：,Мастер добавления аккаунта:,Майстер додавання акаунта: ,Kreator dodawania konta: ,アカウント追加ウィザード: ,Assistent zum Hinzufügen von Konten: ,معالج إضافة حساب: ,"Assistant d'ajout de compte : ",Asistente para añadir cuentas: ,"Procedura guidata per l'aggiunta di account: "
+UploadSkinDialog_T,Text,Upload New Skin File,上传新皮肤文件,上傳新皮膚文件,Загрузить новый файл скина,Завантажити новий файл скіна,Prześlij nowy plik skórki,新しいスキンファイルをアップロード,Neue Skin-Datei hochladen,رفع ملف مظهر جديد,Téléverser un nouveau fichier de skin,Subir nuevo archivo de aspecto,Carica nuovo file skin
+UploadSkinDialog_Box,Header,Skin File Path,皮肤文件路径,皮膚檔案路徑,Путь к файлу скина,Шлях до файлу скіна,Ścieżka do pliku skórki,スキンファイルのパス,Skin-Dateipfad,مسار ملف المظهر,Chemin du fichier de skin,Ruta del archivo de aspecto,Percorso del file della skin
+UploadSkinDialog_CheckBox,Content,Use slim Minecraft character shape,使用纤细的 Minecraft 角色外形,使用纖細的 Minecraft 角色外形,Используйте тонкую форму персонажа Minecraft.,Тонка модель персонажа (Alex/Slim),Użyj smukłego modelu postaci Minecraft (Slim),スリムモデル（Alex）を使用,Schlankes Minecraft-Charaktermodell verwenden (Slim),استخدام نموذج شخصية ماينكرافت النحيف,Utiliser le modèle de personnage fin (Slim),Usar modelo de personaje delgado (Slim),Usa il modello di personaggio snello (Slim)

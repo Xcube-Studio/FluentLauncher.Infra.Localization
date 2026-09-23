@@ -1,15 +1,15 @@
-﻿Id,Property,en-US,zh-Hans,zh-Hant,ru-RU,uk-UA
-Text1,Text,Version,版本,版本,Версия,Версія
-Text2,Text,Mod Loader,模组加载器,模組載入器,Загрузчик модов,Завантажувач модів
-M1,Text,Download to specified folder,下载至指定文件夹,下載至指定資料夾,Загрузить в указанную папку,Завантажити у вказану папку
-TipText1,Text,,翻译文本来自 MCIM,翻譯內文來自 MCIM,,
-TipText2,Text,Data From,数据来自,數據來自,Данные из,Дані з
-H1,Text,Files,文件,文件,Файлов,Файли
-H2,Text,Description,描述,描述,Описание,опис
-H3,Text,ScreenShots,屏幕截图,螢幕截圖,Снимки экрана,Скріншоти
-TeachingTip,Title,You should select an item from the &quot;File&quot; list below and click Download,"你应该从下方 ""文件"" 列表中选择一项再点击下载","你應該從下方 ""檔案"" 清單中選擇一項再點擊下載",Вы должны выбрать элемент из списка «Файл» ниже и нажать «Загрузить»,Ви повинні вибрати елемент із &quot;Файл&quot; списку нижче та натисніть Завантажити
-TeachingTip,CloseButtonContent,Got it!,明白了！,明白了！,Понятно!,Зрозуміло!
-InstallButton,Content,Install,安装,安裝,Установить,Встановити
-HyperlinkButton,Content,Web Page,网页,網頁,Веб-страница,Веб-сторінка
-_M2,,Download to the public ${folder} folder (.minecraft/${folder}),下载至公共 ${folder} 文件夹 (.minecraft/${folder}),下載至公用 ${folder} 資料夾 (.minecraft/${folder}),Скачать в общедоступную папку ${folder} (.minecraft/${folder}),Завантажити до загальнодоступної папки ${folder} (.minecraft/${folder})
-_M3,,Download to the current instance's ${folder} folder,下载至当前实例的 ${folder} 文件夹,下載至目前實例的 ${folder} 資料夾,Скачать в папку ${folder} текущего экземпляра,Завантажити до папки ${folder} поточного екземпляра
+﻿Id,Property,en-US,zh-Hans,zh-Hant,ru-RU,uk-UA,pl-PL,ja-JP,de-DE,ar-SA,fr-FR,es-ES,it-IT
+Text1,Text,Version,版本,版本,Версия,Версія,Wersja,バージョン,Version,الإصدار,Version,Versión,Versione
+Text2,Text,Mod Loader,模组加载器,模組載入器,Загрузчик модов,Завантажувач модів,Mod loader,MOD ローダー,Mod-Loader,محمل التعديلات,Chargeur de mods,Cargador de mods,Caricatore di mod
+M1,Text,Download to specified folder,下载至指定文件夹,下載至指定資料夾,Загрузить в указанную папку,Завантажити у вибрану папку,Pobierz do wybranego folderu,指定したフォルダにダウンロード,In angegebenen Ordner herunterladen,تنزيل إلى مجلد مخصص,Télécharger dans le dossier spécifié,Descargar a carpeta especificada,Scarica nella cartella specificata
+TipText1,Text,Translations provided by MCIM,翻译文本来自 MCIM,翻譯內文來自 MCIM,,Переклад надано сервісом MCIM,Tłumaczenia dostarczone przez MCIM,翻訳テキスト提供: MCIM,Übersetzungen bereitgestellt von MCIM,الترجمة مقدمة من MCIM,Traductions fournies par MCIM,Traducciones proporcionadas por MCIM,Traduzioni fornite da MCIM
+TipText2,Text,Data From,数据来自,數據來自,Данные из,Джерело даних:,Dane z:,データ元:,Daten von:,البيانات من:,Données de :,Datos de:,Dati da:
+H1,Text,Files,文件,文件,Файлов,Файли,Pliki,ファイル,Dateien,الملفات,Fichiers,Archivos,File
+H2,Text,Description,描述,描述,Описание,Опис,Opis,説明,Beschreibung,الوصف,Description,Descripción,Descrizione
+H3,Text,ScreenShots,屏幕截图,螢幕截圖,Снимки экрана,Знімки екрана,Zrzuty ekranu,スクリーンショット,Screenshots,لقطات الشاشة,"Captures d'écran",Capturas de pantalla,Schermate
+TeachingTip,Title,"Please select an item from the ""Files"" list below and click Download","你应该从下方 ""文件"" 列表中选择一项再点击下载","你應該從下方 ""檔案"" 清單中選擇一項再點擊下載",Вы должны выбрать элемент из списка «Файл» ниже и нажать «Загрузить»,Виберіть потрібний файл зі списку «Файли» нижче та натисніть «Завантажити»,Wybierz element z poniższej listy plików i kliknij Pobierz,下の「ファイル」一覧から選択して「ダウンロード」をクリックしてください,Bitte wählen Sie ein Element aus der Dateiliste und klicken Sie auf Herunterladen,يرجى اختيار عنصر من قائمة الملفات أدناه ثم النقر على تنزيل,Veuillez sélectionner un élément dans la liste des fichiers puis cliquer sur Télécharger,Seleccione un elemento de la lista de archivos y haga clic en Descargar,"Seleziona un elemento dall'elenco dei file e fai clic su Scarica"
+TeachingTip,CloseButtonContent,Got it!,明白了！,明白了！,Понятно!,Зрозуміло!,Rozumiem!,了解！,Verstanden!,حسناً!,Compris !,¡Entendido!,Ho capito!
+InstallButton,Content,Install,安装,安裝,Установить,Встановити,Zainstaluj,インストール,Installieren,تثبيت,Installer,Instalar,Installa
+HyperlinkButton,Content,Web Page,网页,網頁,Веб-страница,Веб-сторінка,Strona internetowa,ウェブページ,Webseite,صفحة الويب,Page Web,Página web,Pagina Web
+_M2,,Download to the public ${folder} folder (.minecraft/${folder}),下载至公共 ${folder} 文件夹 (.minecraft/${folder}),下載至公用 ${folder} 資料夾 (.minecraft/${folder}),Скачать в общедоступную папку ${folder} (.minecraft/${folder}),Завантажити до загальної папки ${folder} (.minecraft/${folder}),Pobierz do wspólnego folderu ${folder} (.minecraft/${folder}),共有の ${folder} フォルダにダウンロード (.minecraft/${folder}),In den gemeinsamen Ordner ${folder} herunterladen (.minecraft/${folder}),تنزيل إلى المجلد العام ${folder} (.minecraft/${folder}),Télécharger dans le dossier public ${folder} (.minecraft/${folder}),Descargar a la carpeta pública ${folder} (.minecraft/${folder}),Scarica nella cartella condivisa ${folder} (.minecraft/${folder})
+_M3,,"Download to the current instance's ${folder} folder",下载至当前实例的 ${folder} 文件夹,下載至目前實例的 ${folder} 資料夾,Скачать в папку ${folder} текущего экземпляра,Завантажити до папки ${folder} поточного екземпляра,Pobierz do folderu ${folder} bieżącej instancji,現在のインスタンスの ${folder} フォルダにダウンロード,In den Ordner ${folder} der aktuellen Instanz herunterladen,تنزيل إلى مجلد ${folder} الخاص بالمثيل الحالي,"Télécharger dans le dossier ${folder} de l'instance actuelle",Descargar a la carpeta ${folder} de la instancia actual,"Scarica nella cartella ${folder} dell'istanza corrente"

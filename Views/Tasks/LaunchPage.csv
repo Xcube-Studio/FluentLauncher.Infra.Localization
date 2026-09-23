@@ -1,20 +1,20 @@
-﻿Id,Property,en-US,zh-Hans,zh-Hant,ru-RU,uk-UA
-Title,Text,Launch Tasks,启动任务,啟動任務,Задачи запуска,Завдання запуску
-Text1,Text,Time Range:,时间范围:,時間範圍:,Диапазон времени:,Часовий діапазон:
-Text2,Text,No Task,无任务,無任務,Нет задач,Немає завдань
-Text3,Text,Go to HomePage and launch a Game,转到主页并启动游戏,前往主頁並啟動遊戲,Перейти на главную страницу и запустить игру,Перейти на домашню сторінку і запустити гру
-_Items,,Within a day;Nearly three days;Last week;All time,一天之内;近三天;上周;所有时间,一天之內;近三天;上週;所有時間,В течение дня;Последние три дня;Прошлая неделя;Все время, протягом дня;Майже три дні;Минулого тижня;Весь час
-CheckBox,Content,Show historical launch records,显示历史启动记录,顯示歷史啟動記錄,Показать историю запусков,Показати історичні записи запуску
-B1,Text,Kill Process,终止进程,終止進程,Завершить процесс,Завершити процес
-B2,Text,Export Analysis Package,导出分析包,导出分析包,Пакет анализа экспорта,Пакет аналізу експорту
-AB1,Label,Open Log,显示日志,顯示日誌,Показать логи,Відкрити лог
-AB2,Label,Create Launch Script,创建启动脚本,建立啟動腳本,Создать скрипт запуска,Створити скрипт запуску
-AB3,Label,Retry Launch,重试启动,重試啟動,Retry Launch,Retry Launch
-AB4,Label,Remove Task,移除该任务,移除該任務,Remove Task,Remove Task
-AB5,Label,Instance Settings,转到实例设置,轉到實例設定,Instance Settings,Instance Settings
-_TaskName_CheckNeeds,,Check the items required for launch,检查启动所需项目,檢查啟動所需項目,Проверка необходимых для запуска элементов,"Перевірте елементи, необхідні для запуску"
-_TaskName_Authenticate,,Refresh the account verification token,刷新账户验证令牌,刷新帳戶驗證令牌,Обновление токена аутентификации аккаунта,Оновіть маркер підтвердження облікового запису
-_TaskName_CompleteResources,,Check and complete the launch resources,检查补全游戏资源,檢查補全遊戲資源,Проверка и дополнение игровых ресурсов,Перевірте та заповніть ресурси запуску
-_TaskName_BuildArguments,,Build the launch process parameters,构建启动进程参数,建構啟動進程參數,Построение параметров процесса запуска,Побудуйте параметри процесу запуску
-_TaskName_LaunchProcess,,Start the Minecraft process,启动 Minecraft 进程,啟動 Minecraft 流程,Запуск процесса Minecraft,Запустіть процес Minecraft
-LaunchTitle,Text,Launch Minecraft:,启动 Minecraft：,啟動 Minecraft：,Запустить Minecraft: ,Запустити Minecraft:
+﻿Id,Property,en-US,zh-Hans,zh-Hant,ru-RU,uk-UA,pl-PL,ja-JP,de-DE,ar-SA,fr-FR,es-ES,it-IT
+Title,Text,Launch Tasks,启动任务,啟動任務,Задачи запуска,Завдання запуску,Zadania uruchamiania,起動タスク,Startaufgaben,مهام التشغيل,Tâches de lancement,Tareas de inicio,Attività di avvio
+Text1,Text,Time Range:,时间范围:,時間範圍:,Диапазон времени:,Період часу:,Zakres czasu:,期間:,Zeitbereich:,النطاق الزمني:,Période :,Rango de tiempo:,Intervallo di tempo:
+Text2,Text,No Task,无任务,無任務,Нет задач,Немає завдань,Brak zadań,タスクはありません,Keine Aufgaben,لا توجد مهام,Aucune tâche,No hay tareas,Nessuna attività
+Text3,Text,Go to HomePage and launch a Game,转到主页并启动游戏,前往主頁並啟動遊戲,Перейти на главную страницу и запустить игру,Перейдіть на головну сторінку та запустіть гру,Przejdź do strony głównej i uruchom grę,ホーム画面からゲームを起動してください,Gehen Sie zur Startseite und starten Sie ein Spiel,انتقل إلى الصفحة الرئيسية وابدأ تشغيل لعبة,"Allez sur la page d'accueil pour lancer un jeu",Vaya a la página principal e inicie un juego,Vai alla home page e avvia un gioco
+_Items,,Within a day;Nearly three days;Last week;All time,一天之内;近三天;上周;所有时间,一天之內;近三天;上週;所有時間,В течение дня;Последние три дня;Прошлая неделя;Все время,За добу;За 3 дні;За останній тиждень;За весь час,W ciągu dnia;Ostatnie 3 dni;Ostatni tydzień;Cały czas,24時間以内;過去3日間;先週;すべての期間,Innerhalb eines Tages;Letzte 3 Tage;Letzte Woche;Gesamte Zeit,خلال يوم;آخر 3 أيام;الأسبوع الماضي;كل الأوقات,Dans la journée;Ces 3 derniers jours;La semaine dernière;Tout le temps,En un día;Últimos 3 días;Última semana;Todo el tiempo,Nelle 24 ore;Ultimi 3 giorni;Ultima settimana;Sempre
+CheckBox,Content,Show historical launch records,显示历史启动记录,顯示歷史啟動記錄,Показать историю запусков,Показувати історію попередніх запусків,Pokaż historię uruchamiania,過去の起動履歴を表示,Startverlauf anzeigen,إظهار سجلات التشغيل السابقة,"Afficher l'historique des lancements",Mostrar historial de inicios,Mostra cronologia degli avvii
+B1,Text,Kill Process,终止进程,終止進程,Завершить процесс,Завершити процес,Zakończ proces,プロセスを終了,Prozess beenden,إنهاء العملية,Terminer le processus,Finalizar proceso,Termina processo
+B2,Text,Export Analysis Package,导出分析包,导出分析包,Пакет анализа экспорта,Експортувати діагностичний пакет,Eksportuj pakiet analityczny,診断パッケージをエクスポート,Diagnosepaket exportieren,تصدير حزمة التحليل,Exporter le package de diagnostic,Exportar paquete de diagnóstico,Esporta pacchetto diagnostico
+AB1,Label,Open Log,显示日志,顯示日誌,Показать логи,Відкрити журнал,Pokaż dziennik,ログを表示,Protokoll öffnen,فتح السجل,Ouvrir les journaux,Abrir registro,Apri registro
+AB2,Label,Create Launch Script,创建启动脚本,建立啟動腳本,Создать скрипт запуска,Створити скрипт запуску,Utwórz skrypt uruchamiania,起動スクリプトを作成,Startskript erstellen,إنشاء سكريبت التشغيل,Créer un script de lancement,Crear script de inicio,Crea script di avvio
+AB3,Label,Retry Launch,重试启动,重試啟動,Retry Launch,Повторити запуск,Ponów uruchomienie,再起動を試行,Start wiederholen,إعادة محاولة التشغيل,Réessayer le lancement,Reintentar inicio,Riprova avvio
+AB4,Label,Remove Task,移除该任务,移除該任務,Remove Task,Видалити завдання,Usuń zadanie,タスクを削除,Aufgabe entfernen,إزالة المهمة,Supprimer la tâche,Eliminar tarea,Rimuovi attività
+AB5,Label,Instance Settings,转到实例设置,轉到實例設定,Instance Settings,Налаштування екземпляра,Ustawienia instancji,インスタンス設定,Instanzeinstellungen,إعدادات المثيل,"Paramètres de l'instance",Configuración de la instancia,Impostazioni istanza
+_TaskName_CheckNeeds,,Check the items required for launch,检查启动所需项目,檢查啟動所需項目,Проверка необходимых для запуска элементов,Перевірка необхідних компонентів для запуску,Sprawdzanie wymaganych elementów,起動に必要な項目の確認,Erforderliche Startkomponenten überprüfen,التحقق من العناصر المطلوبة للتشغيل,Vérification des éléments requis pour le lancement,Comprobando elementos necesarios para iniciar,"Verifica degli elementi necessari per l'avvio"
+_TaskName_Authenticate,,Refresh the account verification token,刷新账户验证令牌,刷新帳戶驗證令牌,Обновление токена аутентификации аккаунта,Оновлення токена автентифікації акаунта,Odświeżanie tokenu uwierzytelniania konta,アカウント認証トークンの更新,Konto-Authentifizierungstoken erneuern,تحديث رمز مصادقة الحساب,"Actualisation du jeton d'authentification du compte",Actualizando token de autenticación de la cuenta,"Aggiornamento del token di autenticazione dell'account"
+_TaskName_CompleteResources,,Check and complete the launch resources,检查补全游戏资源,檢查補全遊戲資源,Проверка и дополнение игровых ресурсов,Перевірка та завантаження відсутніх ресурсів гри,Weryfikacja i pobieranie brakujących zasobów,不足しているゲームリソースの確認と補完,Überprüfen und Vervollständigen der Spielressourcen,فحص وإكمال موارد اللعبة الناقصة,Vérification et complétion des ressources du jeu,Comprobando y descargando recursos faltantes,Verifica e completamento delle risorse di gioco
+_TaskName_BuildArguments,,Build the launch process parameters,构建启动进程参数,建構啟動進程參數,Построение параметров процесса запуска,Формування аргументів процесу запуску,Tworzenie parametrów procesu uruchamiania,起動プロセス引数の構築,Startprozess-Parameter zusammenstellen,بناء معلمات عملية التشغيل,Génération des arguments de lancement,Construyendo argumentos del proceso de inicio,Creazione degli argomenti del processo di avvio
+_TaskName_LaunchProcess,,Start the Minecraft process,启动 Minecraft 进程,啟動 Minecraft 流程,Запуск процесса Minecraft,Запуск процесу гри Minecraft,Uruchamianie procesu gry Minecraft,Minecraft プロセスの起動,Minecraft-Prozess starten,بدء تشغيل عملية ماينكرافت,Démarrage du processus Minecraft,Iniciando proceso de Minecraft,Avvio del processo di Minecraft
+LaunchTitle,Text,Launch Minecraft:,启动 Minecraft：,啟動 Minecraft：,Запустить Minecraft: ,Запуск Minecraft:,Uruchamianie Minecraft:,Minecraft を起動:,Minecraft starten:,تشغيل ماينكرافت:,Lancement de Minecraft :,Iniciando Minecraft:,Avvio di Minecraft:

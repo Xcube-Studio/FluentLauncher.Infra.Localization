@@ -1,5 +1,5 @@
-﻿Id,Property,en-US,zh-Hans,zh-Hant,ru-RU,uk-UA
-Dialog,Title,Select a theme color from the background image,从背景图片中选取主题色,從背景圖片中選取主題色,Выберите цвет темы из фонового изображения,Виберіть колір теми з фонового зображення
-Dialog,PrimaryButtonText,Confirm,确认,确认,Подтвердить,Підтвердити
-Dialog,SecondaryButtonText,Cancel,取消,取消,Отмена,Скасування
-TextBlock,Text,Colors that might be suitable for use as accent colors,可能适合用作主题色的颜色,可能適合用作主題色的顏色,"Цвета, которые могут подойти для использования в качестве акцентных цветов","Кольори, які можуть підійти для використання як акцентні кольори"
+﻿Id,Property,en-US,zh-Hans,zh-Hant,ru-RU,uk-UA,pl-PL,ja-JP,de-DE,ar-SA,fr-FR,es-ES,it-IT
+Dialog,Title,Select a theme color from the background image,从背景图片中选取主题色,從背景圖片中選取主題色,Выберите цвет темы из фонового изображения,Вибрати акцентний колір із зображення фону,Wybierz kolor motywu z obrazu tła,背景画像からテーマカラーを選択,Designfarbe aus Hintergrundbild wählen,اختر لون المظهر من صورة الخلفية,"Choisir une couleur à partir de l'image de fond",Elegir color del tema de la imagen de fondo,"Scegli un colore del tema dall'immagine di sfondo"
+Dialog,PrimaryButtonText,Confirm,确认,确认,Подтвердить,Підтвердити,Potwierdź,確認,Bestätigen,تأكيد,Confirmer,Confirmar,Conferma
+Dialog,SecondaryButtonText,Cancel,取消,取消,Отмена,Скасувати,Anuluj,キャンセル,Abbrechen,إلغاء,Annuler,Cancelar,Annulla
+TextBlock,Text,Colors that might be suitable for use as accent colors,可能适合用作主题色的颜色,可能適合用作主題色的顏色,"Цвета, которые могут подойти для использования в качестве акцентных цветов","Кольори, які гармонійно підійдуть як акцентні:","Kolory, które mogą pasować jako akcent motywu:",アクセントカラーに適した推奨色:,"Farben, die als Akzentfarben geeignet sein könnten:",ألوان قد تكون مناسبة للاستخدام كألوان تمييز:,"Couleurs suggérées pouvant convenir comme couleur d'accent :",Colores que podrían ser adecuados como color de énfasis:,Colori che potrebbero essere adatti come colore principale:

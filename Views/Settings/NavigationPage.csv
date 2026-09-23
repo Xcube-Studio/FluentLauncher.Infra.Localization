@@ -1,10 +1,10 @@
-﻿Id,Property,en-US,zh-Hans,zh-Hant,ru-RU,uk-UA
-_Settings,,Settings,设置,設定,Настройки,Налаштування
-_Launch,,Launch,启动,發射,Запуск,Запуск
-_Account,,Account,帐户,帳戶,Аккаунт,Аккаунт
-_Download,,Download,下载,下載,Скачать,Завантажити
-_Appearance,,Appearance,外观,外貌,Внешний вид,Зовнішній вигляд
-_About,,About,关于,關於,О лаунчере,Про лаунчер
-_Skin,,Skin,皮肤,皮膚,Скин,Скін
-_Launcher,,Launcher,启动器,Launcher,Launcher,Launcher
-_Extensions,,Extensions,Extensions,Extensions,Расширения,Extensions
+﻿Id,Property,en-US,zh-Hans,zh-Hant,ru-RU,uk-UA,pl-PL,ja-JP,de-DE,ar-SA,fr-FR,es-ES,it-IT
+_Settings,,Settings,设置,設定,Настройки,Налаштування,Ustawienia,設定,Einstellungen,الإعدادات,Paramètres,Configuración,Impostazioni
+_Launch,,Launch,启动,發射,Запуск,Запуск гри,Uruchamianie,起動,Start,التشغيل,Lancement,Inicio,Avvio
+_Account,,Account,帐户,帳戶,Аккаунт,Акаунти,Konta,アカウント,Konto,الحسابات,Comptes,Cuentas,Account
+_Download,,Download,下载,下載,Скачать,Завантаження,Pobieranie,ダウンロード,Downloads,التنزيل,Téléchargement,Descargas,Download
+_Appearance,,Appearance,外观,外貌,Внешний вид,Зовнішній вигляд,Wygląd,外観,Erscheinungsbild,المظهر,Apparence,Apariencia,Aspetto
+_About,,About,关于,關於,О лаунчере,Про програму,O programie,情報,Über,حول المشغل,À propos,Acerca de,Informazioni
+_Skin,,Skin,皮肤,皮膚,Скин,Скіни та плащі,Skórki,スキン,Skins,المظاهر,Skins,Aspectos,Skin
+_Launcher,,Launcher,启动器,Launcher,Launcher,Лаунчер,Program,ランチャー,Launcher,المشغل,Lanceur,Lanzador,Launcher
+_Extensions,,Extensions,Extensions,Extensions,Расширения,Розширення,Rozszerzenia,拡張機能,Erweiterungen,الإضافات,Extensions,Extensiones,Estensioni

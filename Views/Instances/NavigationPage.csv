@@ -1,5 +1,5 @@
-﻿Id,Property,en-US,zh-Hans,zh-Hant,ru-RU,uk-UA
-_Instances,,Instances,实例管理,實例管理,Экземпляры,Примірники
-_Config,,Config,配置,配置,Конфигурация,Конфігурація
-_Mod,,Mod,模组,模組,Мод,Мод
-_Save,,Save,存档,存檔,Сохранить,Зберегти
+﻿Id,Property,en-US,zh-Hans,zh-Hant,ru-RU,uk-UA,pl-PL,ja-JP,de-DE,ar-SA,fr-FR,es-ES,it-IT
+_Instances,,Instances,实例管理,實例管理,Экземпляры,Екземпляри,Instancje,インスタンス管理,Instanzen,المثيلات,Instances,Instancias,Istanze
+_Config,,Config,配置,配置,Конфигурация,Налаштування,Konfiguracja,設定,Konfiguration,التكوين,Configuration,Configuración,Configurazione
+_Mod,,Mod,模组,模組,Мод,Моди,Mody,MOD,Mods,التعديلات,Mods,Mods,Mod
+_Save,,Save,存档,存檔,Сохранить,Світи,Zapisy,セーブデータ,Welten,العوالم,Mondes,Mundos,Mondi

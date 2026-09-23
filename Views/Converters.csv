@@ -1,32 +1,32 @@
-﻿Id,Property,en-US,zh-Hans,zh-Hant,ru-RU,uk-UA
-_Account,,Account,账户,賬戶,аккаунт,акаунт
-_Microsoft,,Microsoft,微软,微軟,Microsoft,Microsoft
-_Offline,,Offline,离线,離線,Пиратский,Піратський
-_Yggdrasil,,Yggdrasil,外置,外置,Yggdrasil,Yggdrasil
-_Microsoft_Description,,Genuine accounts can play on online servers,正版账号才能游玩在线服务器,正版賬號才能遊玩在線服務器,На подлинных аккаунтах можно играть по сети,На справжніх акаунтах можна грати по мережі
-_Offline_Description,,Can only be played locally and offline,只能在本地离线游玩,只能在本地離線遊玩,Можно играть только локально и в автономном режиме,Можна грати тільки локально і в автономному режимі
-_Yggdrasil_Description,,Can enter the third-party Yggdrasil verification server,可以进入第三方 Yggdrasil 验证服务器,可以進入第三方 Yggdrasil 驗證服務器,Доступ к сторонним серверам аутентификации Yggdrasil,Доступ до сторонніх серверів аутентифікації Yggdrasil
-_Release,,Release,正式版,正式版,Release,Реліз
-_Snapshot,,Snapshot,快照版,快照版,Snapshot,Snapshot
-_Old Beta,,Old Beta,远古版 β,遠古版 β,Устаревшая Beta,Застаріла Beta
-_Old Alpha,,Old Alpha,远古版 α,遠古版 α,Устаревшая Alpha,Застаріла Alpha
-_Unknown,,Unknown,未知版本,未知版本,Неизвестная,Невідома
-_Inherited From,,Inherited From,继承自,繼承自,Наследованно от,Успадковано від
-_TaskState_Prepared,,Prepared,已准备,已準備,Подготовлено,Підготовлений
-_TaskState_Running,,Running,正在运行,正在運行,Выполняется,Біг
-_TaskState_Finished,,Finished,已完成,已完成,Завершено,Готово
-_TaskState_Failed,,Failed,失败,失敗,Не удалось,Не вдалося
-_TaskState_Canceling,,Canceling,正在取消,正在取消,Отмена,Скасування
-_TaskState_Cancelled,,Cancelled,已取消,已取消,Отменено,Скасовано
-_SaveGameType_0,,Survival,生存模式,生存模式,Выживание,Виживання
-_SaveGameType_1,,Creative,创造模式,創造模式,Творческий,Творчий
-_SaveGameType_2,,Adventure,冒险模式,冒險模式,Приключение,Пригода
-_SaveGameType_3,,Spectator,旁观者模式,旁觀者模式,Наблюдатель,Глядач
-_SaveCommands,,Commands,命令,命令,Команды,Команди
-_SaveVersion,,Version: ${version},版本：${version},版本：${version},Версия: ${version},Версія: ${version}
-_SaveSeed,,Seed: ${seed},种子：${seed},種子：${seed},Сид: ${seed},Насіння: ${seed}
-_MicrosoftAuthMethod_BuiltInBrowser_Title,,Authenticate using the built-in browser,使用内置浏览器进行身份验证,使用內置瀏覽器進行身份驗證,Аутентификация с помощью встроенного браузера,Аутентифікація за допомогою вбудованого браузера
-_MicrosoftAuthMethod_DeviceFlowCode_Title,,Authenticate with device flow code,使用设备代码流进行身份验证,使用設備代碼流進行身份驗證,Аутентификация с помощью кода устройства,Аутентифікація за допомогою коду пристрою
-_MicrosoftAuthMethod_BuiltInBrowser_Description,,The built-in browser can be slow on poor connections,如果网络状况不佳，内置浏览器可能会更慢,如果網絡狀況不佳，內置瀏覽器可能會更慢,Встроенный браузер может работать медленно при плохом соединении,Вбудований браузер може працювати повільно при поганому з'єднанні
-_MicrosoftAuthMethod_DeviceFlowCode_Description,,Need to enter verification code on external browser,需要在外部浏览器输入验证码,需要在外部瀏覽器輸入驗證碼,Необходимо ввести код подтверждения во внешнем браузере,Необхідно ввести код підтвердження в зовнішньому браузері
-_InvalidExecutableFile,,Invalid executable file or the executable file does not exist,无效的可执行文件或可执行文件不存在,無效的可執行檔或執行檔不存在,Неверный исполняемый файл или исполняемый файл не существует,Недійсний виконуваний файл або виконуваний файл не існує
+﻿Id,Property,en-US,zh-Hans,zh-Hant,ru-RU,uk-UA,pl-PL,ja-JP,de-DE,ar-SA,fr-FR,es-ES,it-IT
+_Account,,Account,账户,賬戶,аккаунт,Акаунт,Konto,アカウント,Konto,الحساب,Compte,Cuenta,Account
+_Microsoft,,Microsoft,微软,微軟,Microsoft,Microsoft,Microsoft,Microsoft,Microsoft,مايكروسوفت,Microsoft,Microsoft,Microsoft
+_Offline,,Offline,离线,離線,Пиратский,Офлайн,Offline,オフライン,Offline,غير متصل,Hors ligne,Sin conexión,Offline
+_Yggdrasil,,Yggdrasil,外置,外置,Yggdrasil,Yggdrasil,Yggdrasil,Yggdrasil,Yggdrasil,إيغدراسيل,Yggdrasil,Yggdrasil,Yggdrasil
+_Microsoft_Description,,Official Microsoft accounts can play on online servers,正版账号才能游玩在线服务器,正版賬號才能遊玩在線服務器,На подлинных аккаунтах можно играть по сети,Офіційні облікові записи дозволяють грати на онлайн-серверах,Oficjalne konta mogą grać na serwerach online,公式アカウントはオンラインサーバーでプレイ可能,Offizielle Konten können auf Online-Servern spielen,الحسابات الأصلية يمكنها اللعب على خوادم الإنترنت,Les comptes officiels peuvent jouer sur des serveurs en ligne,Las cuentas oficiales pueden jugar en servidores en línea,Gli account ufficiali possono giocare sui server online
+_Offline_Description,,Can only be played locally and offline,只能在本地离线游玩,只能在本地離線遊玩,Можно играть только локально и в автономном режиме,Дозволяє грати лише локально та в автономному режимі,Można grać tylko lokalnie i w trybie offline,ローカルおよびオフラインでのみプレイ可能,Kann nur lokal und offline gespielt werden,يمكن اللعب محلياً وبدون اتصال فقط,Peut uniquement être joué localement et hors ligne,Solo se puede jugar localmente y sin conexión,È possibile giocare solo in locale e offline
+_Yggdrasil_Description,,Can authenticate with third-party Yggdrasil verification servers,可以进入第三方 Yggdrasil 验证服务器,可以進入第三方 Yggdrasil 驗證服務器,Доступ к сторонним серверам аутентификации Yggdrasil,Дозволяє авторизуватися через сторонні сервери автентифікації Yggdrasil,Dostęp do serwerów uwierzytelniania innych firm Yggdrasil,サードパーティの Yggdrasil 認証サーバーでログイン可能,Kann sich mit Yggdrasil-Verifizierungsservern von Drittanbietern verbinden,يمكن تسجيل الدخول عبر خوادم مصادقة Yggdrasil الخارجية,"Peut s'authentifier auprès de serveurs Yggdrasil tiers",Puede autenticarse con servidores de verificación Yggdrasil de terceros,Può accedere ai server di autenticazione Yggdrasil di terze parti
+_Release,,Release,正式版,正式版,Release,Реліз,Wydanie,正式版,Vollversion,إصدار رسمي,Version finale,Versión oficial,Rilascio
+_Snapshot,,Snapshot,快照版,快照版,Snapshot,Снапшот,Snapshot,スナップショット,Entwicklungsversion,نسخة تجريبية,Instantané,Snapshot,Snapshot
+_Old Beta,,Old Beta,远古版 β,遠古版 β,Устаревшая Beta,Стара Beta,Stara Beta,旧 Beta,Alte Beta,بيتا قديمة,Ancienne Beta,Beta antigua,Vecchia Beta
+_Old Alpha,,Old Alpha,远古版 α,遠古版 α,Устаревшая Alpha,Стара Alpha,Stara Alpha,旧 Alpha,Alte Alpha,ألفا قديمة,Ancienne Alpha,Alpha antigua,Vecchia Alpha
+_Unknown,,Unknown,未知版本,未知版本,Неизвестная,Невідомо,Nieznana,不明,Unbekannt,غير معروف,Inconnu,Desconocido,Sconosciuto
+_Inherited From,,Inherited From,继承自,繼承自,Наследованно от,Успадковано від,Dziedziczy z,継承元,Geerbt von,موروث من,Hérité de,Heredado de,Ereditato da
+_TaskState_Prepared,,Prepared,已准备,已準備,Подготовлено,Підготовлено,Przygotowano,準備完了,Vorbereitet,جاهز,Préparé,Preparado,Preparato
+_TaskState_Running,,Running,正在运行,正在運行,Выполняется,Виконується,W toku,実行中,Wird ausgeführt,قيد التشغيل,En cours,En ejecución,In esecuzione
+_TaskState_Finished,,Finished,已完成,已完成,Завершено,Завершено,Ukończono,完了,Abgeschlossen,مكتمل,Terminé,Completado,Completato
+_TaskState_Failed,,Failed,失败,失敗,Не удалось,Помилка,Nie powiodło się,失敗,Fehlgeschlagen,فشل,Échoué,Fallido,Non riuscito
+_TaskState_Canceling,,Canceling,正在取消,正在取消,Отмена,Скасовується,Anulowanie,キャンセル中,Wird abgebrochen,جارٍ الإلغاء,Annulation,Cancelando,Annullamento
+_TaskState_Cancelled,,Cancelled,已取消,已取消,Отменено,Скасовано,Anulowano,キャンセル済み,Abgebrochen,ملغى,Annulé,Cancelado,Annullato
+_SaveGameType_0,,Survival,生存模式,生存模式,Выживание,Виживання,Przetrwanie,サバイバル,Überleben,البقاء,Survie,Supervivencia,Sopravvivenza
+_SaveGameType_1,,Creative,创造模式,創造模式,Творческий,Творчість,Kreatywny,クリエイティブ,Kreativ,الإبداع,Créatif,Creativo,Creativa
+_SaveGameType_2,,Adventure,冒险模式,冒險模式,Приключение,Пригода,Przygoda,アドベンチャー,Abenteuer,المغامرة,Aventure,Aventura,Avventura
+_SaveGameType_3,,Spectator,旁观者模式,旁觀者模式,Наблюдатель,Глядач,Obserwator,スペクテイター,Zuschauer,المشاهد,Spectateur,Espectador,Spettatore
+_SaveCommands,,Commands,命令,命令,Команды,Команди,Polecenia,コマンド,Befehle,الأوامر,Commandes,Comandos,Comandi
+_SaveVersion,,Version: ${version},版本：${version},版本：${version},Версия: ${version},Версія: ${version},Wersja: ${version},バージョン: ${version},Version: ${version},الإصدار: ${version},Version : ${version},Versión: ${version},Versione: ${version}
+_SaveSeed,,Seed: ${seed},种子：${seed},種子：${seed},Сид: ${seed},Сід: ${seed},Ziarno: ${seed},シード値: ${seed},Startwert: ${seed},البذرة: ${seed},Graine : ${seed},Semilla: ${seed},Seme: ${seed}
+_MicrosoftAuthMethod_BuiltInBrowser_Title,,Authenticate using the built-in browser,使用内置浏览器进行身份验证,使用內置瀏覽器進行身份驗證,Аутентификация с помощью встроенного браузера,Авторизація через вбудований браузер,Uwierzytelnianie przez wbudowaną przeglądarkę,内蔵ブラウザで認証,Authentifizierung über den integrierten Browser,المصادقة باستخدام المتصفح المدمج,Authentification avec le navigateur intégré,Autenticarse con el navegador integrado,Autenticazione tramite browser integrato
+_MicrosoftAuthMethod_DeviceFlowCode_Title,,Authenticate with device flow code,使用设备代码流进行身份验证,使用設備代碼流進行身份驗證,Аутентификация с помощью кода устройства,Авторизація через код пристрою,Uwierzytelnianie kodem urządzenia,デバイスコードで認証,Authentifizierung per Gerätecode,المصادقة برمز تدفق الجهاز,"Authentification par code d'appareil",Autenticarse con código de dispositivo,Autenticazione con codice dispositivo
+_MicrosoftAuthMethod_BuiltInBrowser_Description,,The built-in browser can be slow on poor connections,如果网络状况不佳，内置浏览器可能会更慢,如果網絡狀況不佳，內置瀏覽器可能會更慢,Встроенный браузер может работать медленно при плохом соединении,"Вбудований браузер може працювати повільніше при нестабільному з'єднанні",Wbudowana przeglądarka może działać wolniej przy słabym połączeniu,接続が不安定な場合、内蔵ブラウザの動作が遅くなることがあります,Der integrierte Browser kann bei schlechter Verbindung langsam sein,قد يكون المتصفح المدمج بطيئاً مع الاتصال الضعيف,Le navigateur intégré peut être lent avec une mauvaise connexion,El navegador integrado puede ser lento con una mala conexión,Il browser integrato può essere lento con una connessione debole
+_MicrosoftAuthMethod_DeviceFlowCode_Description,,Need to enter verification code on external browser,需要在外部浏览器输入验证码,需要在外部瀏覽器輸入驗證碼,Необходимо ввести код подтверждения во внешнем браузере,Потрібно ввести код підтвердження у зовнішньому браузері,Wymaga wprowadzenia kodu weryfikacyjnego w zewnętrznej przeglądarce,外部ブラウザで確認コードを入力する必要があります,Bestätigungscode muss im externen Browser eingegeben werden,يجب إدخال رمز التحقق في متصفح خارجي,Vous devez saisir le code de vérification dans un navigateur externe,Requiere ingresar el código de verificación en un navegador externo,È necessario inserire il codice di verifica in un browser esterno
+_InvalidExecutableFile,,Invalid executable file or the executable file does not exist,无效的可执行文件或可执行文件不存在,無效的可執行檔或執行檔不存在,Неверный исполняемый файл или исполняемый файл не существует,Некоректний або відсутній виконуваний файл,Nieprawidłowy plik wykonywalny lub plik nie istnieje,実行可能ファイルが無効か、存在しません,Ungültige ausführbare Datei oder Datei existiert nicht,ملف تنفيذي غير صالح أو الملف غير موجود,Fichier exécutable invalide ou inexistant,Archivo ejecutable no válido o no existe,File eseguibile non valido o inesistente

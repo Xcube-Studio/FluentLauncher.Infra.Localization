@@ -1,4 +1,4 @@
-﻿Id,Property,en-US,zh-Hans,zh-Hant,ru-RU,uk-UA
-T1,Text,Saves,存档,存檔,Сохранения,Збереження
-Card1,Header,Saves Folder,存档文件夹,存檔資料夾,Папка сохранений,Збереження
-Text1,Text,No Saves,没有存档,沒有存檔,Нет сохранений,Немає збережень
+﻿Id,Property,en-US,zh-Hans,zh-Hant,ru-RU,uk-UA,pl-PL,ja-JP,de-DE,ar-SA,fr-FR,es-ES,it-IT
+T1,Text,Saves,存档,存檔,Сохранения,Світи (Saves),Zapisy światów,セーブデータ,Welten,العوالم المحفوظة,Mondes sauvegardés,Partidas guardadas,Mondi salvati
+Card1,Header,Saves Folder,存档文件夹,存檔資料夾,Папка сохранений,Папка світів (Saves),Folder zapisów,セーブデータフォルダ,Welten-Ordner,مجلد العوالم,Dossier des sauvegardes,Carpeta de partidas,Cartella dei salvataggi
+Text1,Text,No Saves,没有存档,沒有存檔,Нет сохранений,Немає збережених світів,Brak zapisów,セーブデータがありません,Keine Welten gefunden,لا توجد عوالم محفوظة,Aucun monde trouvé,No hay partidas guardadas,Nessun mondo trovato
